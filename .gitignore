@@ -9,3 +9,4 @@
 *.fdb_latexmk
 .DS_Store
 __pycache__/
+.idea/
