@@ -6,6 +6,8 @@ The project covers the multiple comparisons problem in ML (and how corrections f
 
 ## Slides
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20792837.svg)](https://doi.org/10.5281/zenodo.20792837)
+
 **[Slides](slides/benchmarks_engines_slides_v1.pdf)** ([LaTeX source](slides/benchmarks_engines_slides_v1.tex)) — 46 slides covering performativity in ML benchmarks, multiple comparisons and FWER/FDR, proof culture fragmentation in mechanistic interpretability, and counterperformativity in peer review.
 
 To compile:

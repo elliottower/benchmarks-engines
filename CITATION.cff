@@ -7,4 +7,5 @@ authors:
     email: elliot@elliottower.ai
 type: software
 license: MIT
+doi: "10.5281/zenodo.20792837"
 repository-code: "https://github.com/elliottower/benchmarks-engines"
