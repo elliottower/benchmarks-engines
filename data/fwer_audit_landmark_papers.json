@@ -1,0 +1,29 @@
+{
+  "description": "FWER audit of 12 landmark ML papers. m = implicit comparisons from manual table audit.",
+  "formula": "FWER = 1 - (1 - 0.05)^m",
+  "note": "Counts updated via manual audit of all results tables per paper. Each table contributes R*C*(R-1)/2 pairwise comparisons across rows within each column.",
+  "audit_date": "2026-06",
+  "papers": [
+    {"paper": "CLIP (Radford et al. 2021)", "arxiv": "2103.00020", "m": 58632, "fwer": 1.000, "alpha_star": 0.0000009, "correction_mentioned": true, "source": "manual", "note": "16 tables. Dominated by Table 10 (linear probe: 65 models x 27 datasets = 56,160)."},
+    {"paper": "LoRA (Hu et al. 2022)", "arxiv": "2106.09685", "m": 3301, "fwer": 1.000, "alpha_star": 0.000015, "correction_mentioned": false, "source": "manual", "note": "12 tables (main + appendix). Largest: Table 15 (hyperparameter sweep, 870), Table 2 (GLUE, 819)."},
+    {"paper": "ViT (Dosovitskiy et al. 2021)", "arxiv": "2010.11929", "m": 1790, "fwer": 1.000, "alpha_star": 0.000028, "correction_mentioned": false, "source": "manual", "note": "6 results tables. Dominated by Table 6 (scaling study, 1,026) and Table 5 (transfer, 546)."},
+    {"paper": "LLaMA (Touvron et al. 2023)", "arxiv": "2302.13971", "m": 1559, "fwer": 1.000, "alpha_star": 0.000032, "correction_mentioned": false, "source": "manual", "note": "13 results tables (Tables 3-14). Excludes Table 16 appendix (57 MMLU subjects would add 12,768)."},
+    {"paper": "Attention Is All You Need (Vaswani et al. 2017)", "arxiv": "1706.03762", "m": 576, "fwer": 1.000, "alpha_star": 0.000087, "correction_mentioned": false, "source": "manual", "note": "3 results tables. Table 3 (ablation) dominates at 420."},
+    {"paper": "ResNet (He et al. 2016)", "arxiv": "1512.03385", "m": 501, "fwer": 1.000, "alpha_star": 0.0001, "correction_mentioned": false, "source": "manual", "note": "13 results tables (Tables 2-14). Prior automated count of 949 overcounted architecture spec columns."},
+    {"paper": "BERT (Devlin et al. 2019)", "arxiv": "1810.04805", "m": 414, "fwer": 1.000, "alpha_star": 0.0001, "correction_mentioned": false, "source": "manual", "note": "8 results tables. Confirmed by both automated and manual audit."},
+    {"paper": "Mixtral (Jiang et al. 2024)", "arxiv": "2401.04088", "m": 243, "fwer": 1.000, "alpha_star": 0.0002, "correction_mentioned": false, "source": "manual", "note": "4 model-comparison tables. Table 2 (6 models x 12 benchmarks = 180) dominates."},
+    {"paper": "DDPM (Ho et al. 2020)", "arxiv": "2006.11239", "m": 216, "fwer": 1.000, "alpha_star": 0.0002, "correction_mentioned": false, "source": "manual", "note": "2 results tables. Table 1 unconditional section (12 rows x 3 cols = 198) + ablation."},
+    {"paper": "GPT-2 (Radford et al. 2019)", "arxiv": null, "m": 166, "fwer": 1.000, "alpha_star": 0.0003, "correction_mentioned": false, "source": "manual", "note": "3 results tables. Table 3 (zero-shot LM, 5 x 10 = 100) + Table 4 (summarization, 60)."},
+    {"paper": "DPO (Rafailov et al. 2023)", "arxiv": "2305.18290", "m": 20, "fwer": 0.642, "alpha_star": 0.0025, "correction_mentioned": false, "source": "manual", "note": "2 results tables. Most results in figures, not tables. Genuinely few tabular comparisons."},
+    {"paper": "SAE / Towards Monosemanticity (Bricken et al. 2023)", "arxiv": null, "m": 19, "fwer": 0.623, "alpha_star": 0.0026, "correction_mentioned": false, "source": "pdf", "note": "Shown separately in MI audit."}
+  ],
+  "summary": {
+    "total_papers": 12,
+    "manual_audit_papers": 11,
+    "median_m_all": 414,
+    "median_fwer_all": 1.000,
+    "papers_with_fwer_above_95": 11,
+    "papers_with_zero_corrections": 11,
+    "fraction_no_correction": 0.917
+  }
+}

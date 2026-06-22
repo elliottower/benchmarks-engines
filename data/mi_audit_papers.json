@@ -1,0 +1,100 @@
+{
+  "description": "Manual FWER audit of 6 mechanistic interpretability papers. Feature m = dictionary size (conservative: each feature examined once).",
+  "audit_date": "2026-06",
+  "papers": [
+    {
+      "paper": "Scaling Monosemanticity (Templeton et al. 2024)",
+      "model": "Claude 3 Sonnet",
+      "dict_sizes": [1048576, 4194304, 33554432],
+      "main_dict_n": 33554432,
+      "features_deeply_shown": 10,
+      "features_referenced": 133,
+      "dead_features_pct": 0.65,
+      "feature_m": 33554432,
+      "table_m": 0,
+      "total_m": 33554432,
+      "alpha_star": 1.5e-9,
+      "interp_method": "Max activating examples, 1000 activations scored per feature via Claude 3 Opus (0-3 rubric), 100 random features vs 100 neurons compared",
+      "shown_ratio": "0.00003%"
+    },
+    {
+      "paper": "Bills et al. 2023 (Language models can explain neurons)",
+      "model": "GPT-2 XL",
+      "dict_n": 307200,
+      "features_deeply_shown": 10,
+      "features_auto_scored": 307200,
+      "high_quality_pct": 0.0055,
+      "high_quality_threshold": 0.8,
+      "feature_m": 307200,
+      "table_m": 4,
+      "total_m": 307204,
+      "alpha_star": 1.6e-7,
+      "interp_method": "GPT-4 generates explanation from 5 top-activating excerpts; GPT-3.5/4 simulates on 10 examples; Pearson correlation = score",
+      "note": "Only paper that scored ALL features. 0.55% scored above 0.8."
+    },
+    {
+      "paper": "Sparse Feature Circuits (Marks et al. 2024)",
+      "model": "Pythia-70M, Gemma-2-2B",
+      "dict_n": 32768,
+      "features_in_circuits": 86,
+      "feature_m": 32768,
+      "table_m": 84,
+      "total_m": 32852,
+      "alpha_star": 1.5e-6,
+      "interp_method": "Human crowdworkers rated features; Neuronpedia interface"
+    },
+    {
+      "paper": "SAEs Find Highly Interpretable Features (Cunningham et al. 2023)",
+      "model": "Pythia-70M, Pythia-410M",
+      "dict_n": 1024,
+      "features_deeply_shown": 5,
+      "features_auto_scored_per_layer": 150,
+      "feature_m": 1024,
+      "table_m": 2,
+      "total_m": 1026,
+      "alpha_star": 4.9e-5,
+      "interp_method": "Bills method: GPT-4 explanation from 5 top fragments, GPT-3.5 simulates on 10 examples"
+    },
+    {
+      "paper": "Towards Monosemanticity (Bricken et al. 2023)",
+      "model": "1-layer transformer, 512-neuron MLP",
+      "dict_sizes_trained": [512, 1024, 2048, 4096, 8192, 16384, 32768, 65536, 131072],
+      "main_dict_n": 4096,
+      "dead_features": 168,
+      "features_deeply_shown": 4,
+      "features_auto_scored": 4096,
+      "feature_m": 4096,
+      "table_m": 19,
+      "total_m": 4115,
+      "alpha_star": 1.2e-5,
+      "interp_method": "GPT-4: 5 top-activating examples for explanation; GPT-3.5 simulates on 10 fragments"
+    },
+    {
+      "paper": "ACDC (Conmy et al. 2023)",
+      "model": "GPT-2 Small",
+      "dict_n": null,
+      "total_edges": 32000,
+      "selected_edges": 68,
+      "feature_m": 0,
+      "table_m": 219,
+      "total_m": 219,
+      "alpha_star": 2.3e-4,
+      "note": "Circuit discovery, not SAE features. Operates on attention heads + MLPs."
+    }
+  ],
+  "autointerp_scores": {
+    "source": "SAEBench test data (logs_100.txt)",
+    "model": "Pythia-70M-deduped",
+    "sae": "sae_bench_pythia70m_sweep_topk_ctx128_0730",
+    "n_latents_scored": 100,
+    "mean_score": 0.885,
+    "median_score": 0.929,
+    "std_dev": 0.138,
+    "min_score": 0.500,
+    "max_score": 1.000,
+    "pct_above_0.7": 0.92,
+    "pct_above_0.8": 0.75,
+    "pct_above_0.9": 0.65,
+    "pct_perfect_1.0": 0.37
+  }
+}

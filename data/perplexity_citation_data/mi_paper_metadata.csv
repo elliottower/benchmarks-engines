@@ -1,0 +1,28 @@
+arxiv_id,community,label,n_refs_fetched,n_seed_refs
+2106.02997,causal,Geiger+2021 causal-abstraction-NNs,43,0
+2301.04709,causal,Geiger+2023 DAS,136,6
+2303.14023,causal,Geiger+2023 causal-abstraction-theory,38,0
+2305.08809,causal,Wu+2023 boundless-DAS,61,4
+2309.01534,causal,Wu+2023 causal-interp-LLMs,46,0
+2402.14842,causal,Huang+2024 RAVEL,0,0
+2507.08802,causal,Sutter+2025 nonlinear-dilemma,73,4
+2209.11895,circuits,Elhage+2022 superposition,13,0
+2211.00593,circuits,Wang+2022 IOI,31,2
+2211.13866,circuits,Meng+2022 ROME,34,0
+2302.00456,circuits,Chan+2022 causal-scrubbing,66,0
+2304.14997,circuits,Conmy+2023 ACDC,100,4
+2309.04827,circuits,Lieberum+2023 indirect-effect,56,2
+2310.15213,circuits,Marks+2023 sparse-feature-circuits,58,1
+2401.12181,circuits,Lindsey+2024 circuits-components,103,6
+2403.19647,circuits,Henighan+2024 features-circuits,86,7
+2405.00208,circuits,Merullo+2024 circuit-reuse,0,0
+2510.00845,circuits,Varianova+2025 EAP-IG-variance,76,3
+2606.16920,circuits,Demystifying-variance+2026,0,0
+2301.12314,sae,Bricken+2023 towards-monosemanticity,39,0
+2309.08600,sae,Cunningham+2023 dict-learning,38,3
+2406.04093,sae,Templeton+2024 scaling-monosemanticity,69,2
+2406.12606,sae,Engels+2024 dark-matter,60,0
+2408.05147,sae,Karvonen+2025 SAEBench,94,8
+2409.14507,sae,Chanin+2024 absorption,32,4
+2602.14111,sae,Sanity-checks+2026,45,4
+2606.12138,sae,Paulo+Belrose+2026 seed-instability,29,1

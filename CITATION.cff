@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Benchmarks Are Engines, Not Cameras"
+authors:
+  - family-names: Tower
+    given-names: Elliott
+    email: elliot@elliottower.ai
+type: software
+license: MIT
+repository-code: "https://github.com/elliottower/benchmarks-engines"

@@ -1,0 +1,689 @@
+s2_paper_id,arxiv_id,title,year,citation_count,community,is_seed
+3dcfa05a1c162e6cab927c5b08d0444f7b6691f4,2102.12452,"Probing Classifiers: Promises, Shortcomings, and Advances",2021.0,843,causal,False
+5951ede73a1dbb9c5ea8b4d95f31c5ed646aacbd,2106.02997,Causal Abstractions of Neural Networks,2021.0,407,causal,True
+1d7f3297924a9dd90cfc0df522ebe9138c28b46f,,Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals,2020.0,276,causal,False
+cb1b5d949a1d711b1bd3a2924e045ad3f893252c,2303.02536,Finding Alignments Between Interpretable Causal Variables and Distributed Neural Representations,2023.0,184,causal,False
+6247d7bb9093b4f6c222c6c224b3df4335d4b8bd,2301.04709,Causal Abstraction: A Theoretical Foundation for Mechanistic Interpretability,2023.0,163,causal,True
+3f7fa58806614a1f38ae760c25c1305e3a87d4ce,2305.08809,Interpretability at Scale: Identifying Causal Mechanisms in Alpaca,2023.0,125,causal,True
+b311dec6aa6963e51c21fc9a89988a7c369145bc,,A Calculus for Stochastic Interventions: Causal Effect Identification and Surrogate Experiments,2020.0,91,causal,False
+e8e2876b446b08a4a461aae389f72b7edfd62c3a,1906.11583,Approximate Causal Abstraction,2019.0,81,causal,False
+15a0869cee792546dad6190e9420627395a16610,2105.06965,Counterfactual Interventions Reveal the Causal Effect of Relative Clause Representations on Agreement Prediction,2021.0,76,causal,False
+d9a449e1123ca37375c9977f51b7ea6129905803,2402.17700,RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations,2024.0,70,causal,False
+59b988fda9c1737465921a9bade731d511500718,,"The Quest for the Right Mediator: A History, Survey, and Theoretical Grounding of Causal Interpretability",2024.0,57,causal,False
+fecdcfec13a295b1810606baf9b74ba48db7933e,2402.12560,CausalGym: Benchmarking causal interpretability methods on linguistic tasks,2024.0,46,causal,False
+b4d81c89c973b6d207dbc0562760200b7d7974ed,2507.08802,The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?,2025.0,21,causal,True
+f0359e993b444e002479a3f2a7177c11e4e432ba,,Causal Abstraction for Chain-of-Thought Reasoning in Arithmetic Word Problems,2023.0,19,causal,False
+f8e6f2bd8cf6137bbb58ab9c8bd1f1da5f5bf998,2211.12270,Causal Abstraction with Soft Interventions,2022.0,19,causal,False
+205cc15fca6963b355e4c071071368e874ee103e,2212.09897,Inducing Character-level Structure in Subword-based Language Models with Type-level Interchange Intervention Training,2022.0,16,causal,False
+6f4bd12f1a16cf5dc83cf94a7bb2805b2d2e1f53,2406.00394,Learning Causal Abstractions of Linear Structural Causal Models,2024.0,9,causal,False
+6163066fdff9664bbe1a97968f9db333bca273d2,,Neuron Dependency Graphs: A Causal Abstraction of Neural Networks,2022.0,8,causal,False
+05877e76088d0f7d1363f287f44e359708667579,2505.11770,Internal Causal Mechanisms Robustly Predict Language Model Out-of-Distribution Behaviors,2025.0,7,causal,False
+1b7c9e9b6aaeb0199790737650a57eaaa3ae125f,2412.17080,Aligning Graphical and Functional Causal Abstractions,2024.0,7,causal,False
+1d66adcde0d14e59132e4243274936af400827c9,,Causal Differentiating Concepts: Interpreting LM Behavior via Causal Representation Learning,,7,causal,False
+b400756067cef54c09feb4a27c8d7a12d5d9042f,2501.19335,What is causal about causal models and representations?,2025.0,6,causal,False
+de420d0808a9dcff1b3c9a68e420642755455056,2502.00407,Causal Abstraction Learning based on the Semantic Embedding Principle,2025.0,5,causal,False
+b2afc970cc14a41872ea4596d109c1ff3914e721,2509.01631,Unraveling LLM Jailbreaks Through Safety Knowledge Neurons,2025.0,5,causal,False
+08cc0986b25762f298c4cd041a26b97239f67816,2501.08429,Modeling Discrimination with Causal Abstraction,2025.0,4,causal,False
+ed18e1e1ffb0fe731f54c07a9f8f1fc75d27ac12,2510.04842,Distributionally Robust Causal Abstractions,2025.0,3,causal,False
+2fa991ca2037033bf3d849e053315e21530244d2,2508.11214,How Causal Abstraction Underpins Computational Explanation,2025.0,3,causal,False
+7530bd9639bc207e9d703a327582c526ac7c21d2,2410.20161,Causal Abstraction in Model Interpretability: A Compact Survey,2024.0,2,causal,False
+2afe73ffb06bb5c47ad89f35085eaf9d3ddc2d76,2510.18052,Measure-Theoretic Anti-Causal Representation Learning,2025.0,1,causal,False
+c56647e5e418a5a69d8fe1c2d40d4f6ffb10926b,2507.06213,Identifiability in Causal Abstractions: A Hierarchy of Criteria,2025.0,1,causal,False
+364a3a287ffaacc12467af82fadb0d64deaea71f,2503.10834,On the Identifiability of Causal Abstractions,2025.0,1,causal,False
+d667a340a3b6539c173782c21273e93aa191f45d,2605.06979,PLOT: Progressive Localization via Optimal Transport in Neural Causal Abstraction,2026.0,0,causal,False
+66a99cda71d8ad1e6a918894969a1d2a807a33ab,2605.02234,Bucketing the Good Apples: A Method for Diagnosing and Improving Causal Abstraction,2026.0,0,causal,False
+bdc1e927d7460c0713f919c06fd3ad91fae348d8,2602.24266,Efficient Discovery of Approximate Causal Abstractions via Neural Mechanism Sparsification,2026.0,0,causal,False
+1f618d53d52ae52d44194ef16bd2f128755246dd,2510.05033,"Causal Abstractions, Categorically Unified",2025.0,0,causal,False
+255a65f4ed4732b2a3734d7315e4a7895eccab9a,2509.22553,"Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement",2025.0,0,causal,False
+457f40a44ec1e2050f25bc5802207e317e62070a,2605.19135,Identifiable Multimodal Causal Representation Learning under Partial Latent Sharing,2026.0,0,causal,False
+c3d0226175d4a927a0d59b539126eba17a7f73fb,,Interchange Interventions on Vision Models,,0,causal,False
+b12d07063d96ad63e89236ccb6eb39b008ae40a1,2606.05972,LLM Explainability with Counterfactual Chains and Causal Graphs,2026.0,0,causal,False
+1da7d92436587b3e8a0309319f303b70d3a08cf1,2605.22651,What Does the Caption Really Say? Counterfactual Phrase Intervention for Compositional Data Selection in Vision-Language Pretraining,2026.0,0,causal,False
+996445d847f06e99b0bd259345408a0cf1bce87e,2202.05262,Locating and Editing Factual Associations in GPT,2022.0,2708,circuits,True
+6edd112383ad494f5f2eba72b6f4ffae122ce61f,2211.00593,Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small,2022.0,1063,circuits,True
+c90a99eeb57019732a6cc996bb9eaf13faedf00f,2209.11895,In-context Learning and Induction Heads,2022.0,898,circuits,True
+a0cfd36e6c7abf070f492ae52a35af895a1c5592,,Zoom In: An Introduction to Circuits,2020.0,710,circuits,False
+2c871df72c52b58f05447fcb3afc838168d94505,2104.08696,Knowledge Neurons in Pretrained Transformers,2021.0,692,circuits,False
+eefbd8b384a58f464827b19e30a6920ba976def9,2304.14997,Towards Automated Circuit Discovery for Mechanistic Interpretability,2023.0,669,circuits,True
+b8f280d8bf685f8da7c83068e73f000528072d6b,2403.19647,Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models,2024.0,370,circuits,True
+c16c05ca0a3d24519405849fd24604fc1ce47751,2309.16042,Towards Best Practices of Activation Patching in Language Models: Metrics and Methods,2023.0,254,circuits,False
+3c6da6f1601aee99b8e5b8dcf2d21c42d9252b04,2406.11944,Transcoders Find Interpretable LLM Feature Circuits,2024.0,169,circuits,False
+27f7aa77bf343fefd3984c6b23265af672bcc0a3,2310.10348,Attribution Patching Outperforms Automated Circuit Discovery,2023.0,159,circuits,False
+77f02ff24909896856fec410968aef7999c29440,2307.09458,Does Circuit Analysis Interpretability Scale? Evidence from Multiple Choice Capabilities in Chinchilla,2023.0,158,circuits,False
+07363dd18fed7feb8de6cbf2e5be164c19655723,,Thread: Circuits,2020.0,149,circuits,False
+0d8f8092ea3ee98a4ab5b797a7b5c0287c73ce36,2403.17806,Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model Mechanisms,2024.0,126,circuits,False
+c0d9a48547d728dd320b453b01a0ab1ce2f96098,2310.08744,Circuit Component Reuse Across Tasks in Transformer Language Models,2023.0,113,circuits,False
+436cd0fe00807bc9d14434f3313dc836530f2dae,2401.12181,Universal Neurons in GPT2 Language Models,2024.0,98,circuits,True
+d048c9ad2fdf0a5155110271358e30cd24f53bda,2409.03752,Attention heads of large language models,2024.0,88,circuits,False
+110804428354df709b3693f9efc81946a9036ebf,2309.04827,"Neurons in Large Language Models: Dead, N-gram, Positional",2023.0,87,circuits,True
+07c2c3b4af7e4ff1577f36f47f1c93398a6df648,2312.09230,"Successor Heads: Recurring, Interpretable Attention Heads In The Wild",2023.0,79,circuits,False
+0eae83a76b2db97547d8ed42bb048c3eaaf78027,2310.04625,Copy Suppression: Comprehensively Understanding an Attention Head,2023.0,67,circuits,False
+61393e6ad8262f2fbf1ef980608c3deae5fb1afd,2311.17030,Is This the Subspace You Are Looking for? An Interpretability Illusion for Subspace Activation Patching,2023.0,51,circuits,False
+d6fbe7f4523bee8fa814694897347ecdc7d06944,2410.13835,Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs,2024.0,51,circuits,False
+f8ed3401a5f3fb14bbf77da53e132b36102aa0e3,2406.16778,Finding Transformer Circuits with Edge Pruning,2024.0,49,circuits,False
+5d938fc24b4d34bbc76e98a034cf2cad9f491b61,,"Introduction to Circuits, I",2000.0,36,circuits,False
+b5131c07be779d90af946e6f370156b9506b7c0d,2307.03637,Discovering Variable Binding Circuitry with Desiderata,2023.0,31,circuits,False
+4ed00390e76aaa54c8782dd882d7364332733448,2410.13032,Hypothesis Testing the Circuit Hypothesis in LLMs,2024.0,28,circuits,False
+5e878b65e772e759e6f06d63408f6956b474cdda,,Copy Suppression: Comprehensively Understanding a Motif in Language Model Attention Heads,2024.0,25,circuits,False
+9e08a7385a3908ecfaa7886c8597f8c533672ca0,2405.13868,Automatically Identifying Local and Global Circuits with Linear Computation Graphs,2024.0,23,circuits,False
+96706639ed81471fc37dc0d130b8db679a6d173c,2312.10091,Look Before You Leap: A Universal Emergent Decomposition of Retrieval Tasks in Language Models,2023.0,18,circuits,False
+310c4261f47219e60069e646bdef8cbeb6a52a9c,2502.06852,EAP-GP: Mitigating Saturation Effect in Gradient-based Automated Circuit Identification,2025.0,17,circuits,False
+40c34e85dc4558d26bfef7fb54327dbd4a0bebc3,2311.04354,Uncovering Intermediate Variables in Transformers using Circuit Probing,2023.0,15,circuits,False
+5bed8937926f7381db9a5f67b9ec76dbcb34b678,2502.09022,Mechanistic Unveiling of Transformer Circuits: Self-Influence as a Key to Model Reasoning,2025.0,14,circuits,False
+9d59b95ddd36e7f2cdc936c3b80f5b6b2c1f39c4,2502.11812,Towards Understanding Fine-Tuning Mechanisms of LLMs via Circuit Analysis,2025.0,13,circuits,False
+284fdf2c118612031580d09fb49148b6a696e160,2601.22594,Language Model Circuits Are Sparse in the Neuron Basis,2026.0,11,circuits,False
+3321f05dae97d4a1b98ba4535e393f12168867fd,2503.15117,Exploring Model Editing for LLM-based Aspect-Based Sentiment Classification,2025.0,11,circuits,False
+b7ec8f0ba450d654cc7ecd8e9cca5022b72dd38d,2502.04577,Position-aware Automatic Circuit Discovery,2025.0,11,circuits,False
+99a25b62fd9ad86cff5898ff4fccdbc29b373b0a,2411.04105,A Implies B: Circuit Analysis in LLMs for Propositional Logical Reasoning,2024.0,11,circuits,False
+fe05e1ab236f9d4f7a0c8440cf06a28db5b40a5e,2504.00132,Contextualize-then-Aggregate: Circuits for In-Context Learning in Gemma-2 2B,2025.0,9,circuits,False
+29b54348bf3351be42fc4cab78e64a2ce8d7c8d6,2508.21258,RelP: Faithful and Efficient Circuit Discovery via Relevance Patching,2025.0,9,circuits,False
+16bdf18caed48aa2afe1a8711bf96630e9f88410,2505.15807,The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation,2025.0,8,circuits,False
+ff2b1e045d43bfddcfd12414493de0acb8575a3a,2509.17588,Interpreting Attention Heads for Image-to-Text Information Flow in Large Vision-Language Models,2025.0,6,circuits,False
+dac2837d729d4f77d684901bb049b5732d3fd667,2506.21588,Understanding Verbatim Memorization in LLMs Through Circuit Discovery,2025.0,6,circuits,False
+ed4697bd40a4c30e5318e258e98c07a215f99c2f,2602.16823,Formal Mechanistic Interpretability: Automated Circuit Discovery with Provable Guarantees,2026.0,6,circuits,False
+a126eb9e5c77e20314ef5acae3376032daf5c52f,2510.00845,Mechanistic Interpretability as Statistical Estimation: A Variance Analysis of EAP-IG,2025.0,5,circuits,True
+e02b5861d68edb0ebceb241aeff5eac40da451b2,2505.24731,Circuit Stability Characterizes Language Model Generalization,2025.0,5,circuits,False
+c4b83c1e338f463ffe88d8c5067afd03b80cd5d9,2512.10978,Cognitive Mirrors: Exploring the Diverse Functional Roles of Attention Heads in LLM Reasoning,2025.0,5,circuits,False
+bcf821ae73e29241e036f72c840b66606f0f028f,2505.06032,Short-circuiting Shortcuts: Mechanistic Investigation of Shortcuts in Text Classification,2025.0,4,circuits,False
+cebbfdef1db60a2a30442ccdbc8e80066a13dd6d,2512.18634,From Shortcut to Induction Head: How Data Diversity Shapes Algorithm Selection in Transformers,2025.0,4,circuits,False
+96be5c296ece58c23d7a89c3dd9defd7a1392d8b,2605.24059,Spectral Probe-Circuits: A Three-Step Recipe for Identifying Attention-Head Circuits in Pretrained Transformers,2026.0,3,circuits,False
+acecff305f0f573a5fa67bad6e734dd4f16b3315,2602.22968,Certified Circuits: Stability Guarantees for Mechanistic Circuits,2026.0,3,circuits,False
+6de77c59381b74de6e6f554c3f6e12690d6628e8,2510.06811,BlackboxNLP-2025 MIB Shared Task: Exploring Ensemble Strategies for Circuit Localization Methods,2025.0,3,circuits,False
+5599f78bee6d3c3372738eb05b432e1af150f614,2505.17630,Correcting Gradient-Based Circuit Localization via Interaction-Aware Backpropagation,2025.0,3,circuits,False
+cd2f35cff5cb0f07e6ef700bd1a476e9755bb2c8,2602.12026,Protein Circuit Tracing via Cross-layer Transcoders,2026.0,2,circuits,False
+9790eb77f0fbedc5188aca003386c937204e8d8a,2512.09757,"Circuits, Features, and Heuristics in Molecular Transformers",2025.0,2,circuits,False
+df84febb73d5da14893da233c421eb98bfa09b9d,2510.14936,Circuit Insights: Towards Interpretability Beyond Activations,2025.0,2,circuits,False
+f359947567121a838cba9bc20455361f01c2fc02,2603.23268,SafeSeek: Universal Attribution of Safety Circuits in Language Models,2026.0,2,circuits,False
+4855f0d4b351c9904bf7e47375a90e4fb5bb822d,2605.28860,Mechanistic origins of catastrophic forgetting: why RL preserves circuits better than SFT?,2026.0,2,circuits,False
+f9176eb8ff89207e355db1136a998869002e75c8,2603.13652,Causal Attribution via Activation Patching,2026.0,2,circuits,False
+8a4e9316315edf9ea7c9e9cb5cc80bca8011666b,2511.07482,Alignment-Constrained Dynamic Pruning for LLMs: Identifying and Preserving Alignment-Critical Circuits,2025.0,2,circuits,False
+eeab8b8ca16c7dce804240609c959096c57a0111,2604.04982,CURE:Circuit-Aware Unlearning for LLM-based Recommendation,2026.0,2,circuits,False
+4b088ed77698ac50e3082b8f27b584e8bf0222ff,2603.18523,Counting Circuits: Mechanistic Interpretability of Visual Reasoning in Large Vision-Language Models,2026.0,2,circuits,False
+a3f616abde4bad6389405fbd2d9eba9ba23e9f65,2602.20330,Circuit Tracing in Vision-Language Models: Understanding the Internal Mechanisms of Multimodal Thinking,2026.0,2,circuits,False
+ba725ea90011e5162e4e2952193de6a45bff034f,2512.13279,AIR: Post-training Data Selection for Reasoning via Attention Head Influence,2025.0,2,circuits,False
+970de0cb4a057705182398fba97bc7a790e08115,2510.25786,BlackboxNLP-2025 MIB Shared Task: Improving Circuit Faithfulness via Better Edge Selection,2025.0,2,circuits,False
+ba4f571c2c40b0f387abebdce2322b71304945b9,2510.03282,Discovering Transformer Circuits via a Hybrid Attribution and Pruning Framework,2025.0,2,circuits,False
+cae115cd059d12f4213780a0840b3cb2f3c6fd9d,2605.12671,All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs,2026.0,1,circuits,False
+d243346b2ec225d7afda9c2b9da524d47c90d395,2603.01752,"Causal Circuit Tracing Reveals Distinct Computational Architectures in Single-Cell Foundation Models: Inhibitory Dominance, Biological Coherence, and Cross-Model Convergence",2026.0,1,circuits,False
+c7a41c36e056cdbce7de38baf78ce113974fb386,2602.22581,IBCircuit: Towards Holistic Circuit Discovery with Information Bottleneck,2026.0,1,circuits,False
+85ed19ec62027ecad1101f21eed7748915dd5c04,,Unveiling Language Skills under Circuits,2024.0,1,circuits,False
+4115605949049ba24cbe329776315f846236dcf5,2605.08348,How Much Do Circuits Tell Us? Measuring the Consistency and Specificity of Language Model Circuits,2026.0,1,circuits,False
+61d724d883d1fcfdf1501d4dfda51901873a3945,2604.24302,Differentiable Faithfulness Alignment for Cross-Model Circuit Transfer,2026.0,1,circuits,False
+aeeb91b5a9ff414acdf5cd3cef933d5b28b5735b,2604.14477,Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers,2026.0,1,circuits,False
+b861550c4fe3db6bf6f35f50a33ae0ef3173c265,2602.09784,Circuit Fingerprints: How Answer Tokens Encode Their Geometrical Path,2026.0,1,circuits,False
+76d75e9491682dd9a89e605e98405203b8398a7f,2605.20441,Weight Decay Regimes in Grokking Transformers: Cheap Online Diagnostics,2026.0,1,circuits,False
+ba7405a2962f23cc9652520840de9ec2b3aeb632,2511.20910,Emergence and Localisation of Semantic Role Circuits in LLMs,2025.0,1,circuits,False
+2e345a4fba9c4a3421d4707b7bc8aed385e1b8bd,2606.16939,Scalable Circuit Learning for Interpreting Large Language Models,2026.0,0,circuits,False
+8bfadbf56c09689b7f9e67345f4eee610cea40c2,2606.15796,DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing,2026.0,0,circuits,False
+732626fb48658aa1e3d2777c97c9821ab49ba9f9,2606.06664,Inside the Visual Mind: Neuroscience-Motivated Concept Circuits for Interpreting and Steering Vision Transformers,2026.0,0,circuits,False
+c3a7151579a97ed9de557b1b7eb95df51873de38,2605.25603,Detecting Unfaithful Chain-of-Thought via Circuit-Guided Internal-External Discrepancy,2026.0,0,circuits,False
+dce70bd4bc68e7ac5a67a78aa492e5a976083651,2605.22719,Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification,2026.0,0,circuits,False
+8d210472b520a7845602614ff6457e8a553d99e8,2605.20824,Markovian Circuit Tracing for Transformer State Dynamic,2026.0,0,circuits,False
+9573396988f03e66e9768583a314e991170a5e59,2605.21303,From Circuit Evidence to Mechanistic Theory: An Inductive Logic Approach,2026.0,0,circuits,False
+b7fa201cf1f756157d85b0df9bf7cdd2d3d0256d,2605.09773,Exploitation Without Deception: Dark Triad Feature Steering Reveals Separable Antisocial Circuits in Language Models,2026.0,0,circuits,False
+d14a14ef5264f2fc8bda395cf568800a4b8b98f2,2603.11940,"Exhaustive Circuit Mapping of a Single-Cell Foundation Model Reveals Massive Redundancy, Heavy-Tailed Hub Architecture, and Layer-Dependent Differentiation Control",2026.0,0,circuits,False
+b550410bd6871c5a6c0973ccf982012421cc0885,2601.12879,Hierarchical Sparse Circuit Extraction from Billion-Parameter Language Models through Scalable Attribution Graph Decomposition,2026.0,0,circuits,False
+45e85c0a5e5955ff341452eb6d880826e3a2fc15,,Active Circuit Discovery: A Multi-Action POMDP Agent for Causal Feature Identification in Transformer Attribution Graphs,2026.0,0,circuits,False
+216670494817c9db01fa86ac9bccae25ee0a3ab2,2604.01604,CRaFT: Circuit-Guided Refusal Feature Selection via Cross-Layer Transcoders,2026.0,0,circuits,False
+7385482b73ca877e1678cbd96840d0770fee8e1c,2603.25075,Sparse Visual Thought Circuits in Vision-Language Models,2026.0,0,circuits,False
+8746c2f58f791499724cfb74d585a3a1d724500a,2602.07080,CodeCircuit: Toward Inferring LLM-Generated Code Correctness via Attribution Graphs,2026.0,0,circuits,False
+3a86e94617cc69cfbd6b472ae2f0a91fa27a9ff5,2602.13524,Singular Vectors of Attention Heads Align with Features,2026.0,0,circuits,False
+99b68559c26d6013e23bb296a3c380ee97497f12,2606.12966,Circuit Synchronization Precedes Generalization: Causal Evidence from Fourier Structure in Grokking Transformers,2026.0,0,circuits,False
+fc7eb337f1d8de11befdc5055fcbc5eeea046f42,2606.08644,A retrieval conditioned rebinding circuit for dynamic entity tracking in large language models,2026.0,0,circuits,False
+fbd2c57168477342fd3a66fc9f943dd085d7e967,2605.05685,Temporal Functional Circuits: From Spline Plots to Faithful Explanations in KAN Forecasting,2026.0,0,circuits,False
+0d4ea0b90c92559e724226078e55e7fd16a84b75,2605.08200,"Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",2026.0,0,circuits,False
+f47b3021182b68e6919912fcb08fdbae808ad71f,2603.21236,Posterior-Calibrated Causal Circuits in Variational Autoencoders: Why Image-Domain Interpretability Fails on Tabular Data,2026.0,0,circuits,False
+b0b3ba49b1e9cf2f11757cba5eb074f85f1a9bc0,2506.22105,Identifying a Circuit for Verb Conjugation in GPT-2,2025.0,0,circuits,False
+29b88df30edd0ab758a45bab84dcbbe59652b5a8,2311.10905,Flexible Model Interpretability through Natural Language Model Editing,2023.0,0,circuits,False
+2c8670410399ed677a926835bd5d2e2f0c1a4a81,2511.18409,Findings of the BlackboxNLP 2025 Shared Task: Localizing Circuits and Causal Variables in Language Models,2025.0,0,circuits,False
+9590dfb68ae132e1476fcdaa22508a857a78b932,2606.09607,"Closure-Validated Circuit Discovery in Attention Heads: Co-activation Proposes, Ablation Disposes",2026.0,0,circuits,False
+89e3cd15fc3b8e018e6e15a9f9311c59693ab34c,2606.08777,How Many Counterfactuals Does It Take? Probing VLM Hallucinations Through Circuits and Causal Effects,2026.0,0,circuits,False
+ef520875710fd7fc9d6bce212d3198238b3b150f,2606.05378,Pattern Selectivity is Not Task-Causal Structure: A Cross-Architecture Mechanistic Study of Composed-Task Circuits in 1B-Class Language Models,2026.0,0,circuits,False
+f661e2f49d2bd3bd6d71c00e474ad3e34b7bdb42,2606.02378,When Do Attention Circuits Form? Developmental Trajectories of Capability and Attention-Sink Emergence Across Three 1B-ClassArchitectures,2026.0,0,circuits,False
+4bce00187e57fd4caa06e4cd51c3535370c461e5,2605.29901,Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection,2026.0,0,circuits,False
+c99906be85ac7643561d4e4466cdd8fb2f48c5d6,2605.27824,Revealing Algorithmic Deductive Circuits for Logical Reasoning,2026.0,0,circuits,False
+a2b41a3b2d99cae4bfcee5bd3e4e6df85f45eb8d,2605.26343,MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability,2026.0,0,circuits,False
+e1633682e41878dd391b8991eb7e0be2d103b176,2605.19250,Causal Evidence for Attention Head Imbalance in Modality Conflict Hallucination,2026.0,0,circuits,False
+69cacfc3c094631ee845a7d901949b7a2d4a1a42,2605.16023,Judge Circuits,2026.0,0,circuits,False
+afd4c65984ca3afd54f2e503820c4bbbec3bb724,2605.13156,Dual-Pathway Circuits of Object Hallucination in Vision-Language Models,2026.0,0,circuits,False
+33b9948dc76f8e7a9a53dad605fed6a1f555614d,2605.08853,"Architecture, Not Scale: Circuit Localization in Large Language Models",2026.0,0,circuits,False
+d148baafce61f836c8a58ad83c2ce3e4e273012a,2605.09129,Data-driven Circuit Discovery for Interpretability of Language Models,2026.0,0,circuits,False
+9b18e11b22e3917d1833237f3ba89fbb6fc16837,2605.07984,Where's the Plan? Locating Latent Planning in Language Models with Lightweight Mechanistic Interventions,2026.0,0,circuits,False
+ebd49a487b1c2832372bbbb0d0f7c6059a5f1b95,2604.27401,Perturbation Probing: A Two-Pass-per-Prompt Diagnostic for FFN Behavioral Circuits in Aligned LLMs,2026.0,0,circuits,False
+b75c867d0579cf5e30dbb3e965fe0410d5a63a41,2604.19117,LLMs Know They're Wrong and Agree Anyway: The Shared Sycophancy-Lying Circuit,2026.0,0,circuits,False
+3f6aeb0a2ef0d48844590b0780fb55babe6e3468,2604.16889,"Prune, Interpret, Evaluate: A Cross-Layer Transcoder-Native Framework for Efficient Circuit Discovery via Feature Attribution",2026.0,0,circuits,False
+fbf7c7bf0299c46ac11c53e0d1d2352ff0d87c07,2604.05876,Mechanistic Circuit-Based Knowledge Editing in Large Language Models,2026.0,0,circuits,False
+0f1e19a6b95a247276063b8771c5b58621c1701f,2605.31558,"Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization",2026.0,0,circuits,False
+915224127cb8359c3ae7eba9fe37961b7154a679,2605.24603,CSP-Atlas: Concept-Specific Neural Circuits in a Sparse Python Transformer,2026.0,0,circuits,False
+4363fc53551524e4375932804af63bc5b20b19a5,2605.24033,Towards Verifiable Transformers: Solver-Checkable Circuit Explanations,2026.0,0,circuits,False
+e4d1b5f6deccb690be057fba70eeb8752e2d933c,2605.03354,What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis,2026.0,0,circuits,False
+6191bf836609336e805f65a97adfeb63719d82fb,2604.00716,CircuitProbe: Predicting Reasoning Circuits in Transformers via Stability Zone Detection,2026.0,0,circuits,False
+33781935be06f06efbf58ac5e4f9ad2f4460ba02,2602.17526,The Anxiety of Influence: Bloom Filters in Transformer Attention Heads,2026.0,0,circuits,False
+c4a2788ec6f73e0c07ca7a4482527bdf6943ff1d,,Circuit explained: How does a transformer perform compositional generalization,2026.0,0,circuits,False
+87a0b992da8f449a8be52626c4c3d91948e3ca64,2601.20796,Dissecting Multimodal In-Context Learning: Modality Asymmetries and Circuit Dynamics in modern Transformers,2026.0,0,circuits,False
+7c377684b9a74aebc64d29264fcf9daffe0d6143,2511.16893,Predicting the Emergence of Induction Heads in Language Model Pretraining,2025.0,0,circuits,False
+911d3445e4f07ef280d0a9008cfdf0f8606debe4,2606.12841,TimeROME-DLM: Temporal Causal Tracing and Low-Rank Inference-Time Knowledge Editing for Masked Diffusion Language Models,2026.0,0,circuits,False
+50fcf2f67deaa1e1142dfcb230025cc4fb3f3df2,2605.24614,Measuring the Depth of LLM Unlearning via Activation Patching,2026.0,0,circuits,False
+f82a99bf9bbdf5680223ff7bcf55f50ad6ada2df,2605.15138,Forgetting That Sticks: Quantization-Permanent Unlearning via Circuit Attribution,2026.0,0,circuits,False
+fc5440772f254c76924b990a220d6f9fe3e19898,2508.16109,From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits,2025.0,0,circuits,False
+e8cbba9de6968aa029878c7256b8f726ad6d15bf,2508.00903,"Universal Neurons in GPT-2: Emergence, Persistence, and Functional Impact",2025.0,0,circuits,False
+f6b51c8753a871dc94ff32152c00c01e94f90f09,1301.3781,Efficient Estimation of Word Representations in Vector Space,2013.0,34489,mi_general,False
+3febb2bed8865945e7fddc99efd791887bb7e14f,1802.05365,Deep Contextualized Word Representations,2018.0,12178,mi_general,False
+eb7ee0bc355652654990bcf9f92f124688fde493,1606.03657,InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets,2016.0,4529,mi_general,False
+d516daff247f7157fccde6649ace91d969cd1973,1606.03490,The mythos of model interpretability,2016.0,4432,mi_general,False
+c4fd9c86b2b41df51a6fe212406dda81b1997fd4,,Linguistic Regularities in Continuous Space Word Representations,2013.0,3939,mi_general,False
+9a56ab8b1aba50dc2fea3cf4b531d30891a88ba9,2005.10242,Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere,2020.0,2459,mi_general,False
+682b9d2212258fd5edbfca589c86390c31a956b0,1711.11279,Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV),2017.0,2351,mi_general,False
+726320cdbd04804ffa8f3a78c095bd1b55a2a695,1905.00414,Similarity of Neural Network Representations Revisited,2019.0,2259,mi_general,False
+744464cd6fa8341633cd3b5d378faab18a3b543a,1704.05796,Network Dissection: Quantifying Interpretability of Deep Visual Representations,2017.0,1765,mi_general,False
+455a8838cde44f288d456d01c76ede95b56dc675,,A Structural Probe for Finding Syntax in Word Representations,2019.0,1380,mi_general,False
+405f8f5f1c6df1b3343c812832479aad5180b65f,2306.03341,Inference-Time Intervention: Eliciting Truthful Answers from a Language Model,2023.0,1213,mi_general,False
+58fdf550600fc3873729d466601c5d08a51ba8a0,2310.01405,Representation Engineering: A Top-Down Approach to AI Transparency,2023.0,1086,mi_general,False
+c41516420ddbd0f29e010ca259a74c1fc2da0466,1805.01070,What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties,2018.0,1012,mi_general,False
+696e4cb88b720a88b1aa1d3777d5eb05a6afee5c,,REPRESENTATION,1919.0,982,mi_general,False
+03db82055bf039503c8111e997757f122aa5438d,2012.14261,A Survey on Neural Network Interpretability,2020.0,913,mi_general,False
+a3f7a30abe44424e5ef8348a02cc103237ac5210,,SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability,2017.0,879,mi_general,False
+f680d47a51a0e470fcb228bf0110c026535ead1b,2301.05217,Progress measures for grokking via mechanistic interpretability,2023.0,858,mi_general,False
+f6fbb6809374ca57205bd2cf1421d4f4fa04f975,1903.08855,Linguistic Knowledge and Transferability of Contextual Representations,2019.0,825,mi_general,False
+3b21e0c316d0250909f5ef4a9294ef851423a902,,Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. By David Marr,1985.0,767,mi_general,False
+21af4ed208ea3ecdb20b75aa27cddd0bfe683eec,,The Building Blocks of Interpretability,2018.0,729,mi_general,False
+d59523889679aee15992c4bf6e52b134186d07d3,2310.06824,The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets,2023.0,581,mi_general,False
+eb44ce1f7e1f4deac10f6e7009e2073f1eb0b3e4,2311.03658,The Linear Representation Hypothesis and the Geometry of Large Language Models,2023.0,576,mi_general,False
+c4afa2b3eda95a1194313394901e0e96e24cefaa,1901.09451,Bias in Bios: A Case Study of Semantic Representation Bias in a High-Stakes Setting,2019.0,574,mi_general,False
+e5a95a679774e069e1e36d96f92bac6b93027118,1806.05759,Insights on representational similarity in neural networks with canonical correlation,2018.0,555,mi_general,False
+ac11062f1f368d97f4c826c317bf50dcc13fdb59,1808.08949,Dissecting Contextual Word Embeddings: Architecture and Representation,2018.0,486,mi_general,False
+d5295f7ddcf281f3d30a7579d5ce482036a8e27c,2210.13382,Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task,2022.0,484,mi_general,False
+f2885c6a25756cf81aa23b41bc62696a5be5c94d,2104.05240,Factual Probing Is [MASK]: Learning vs. Learning to Recall,2021.0,458,mi_general,False
+8b750488d139f9beba0815ff8f46ebe15ebb3e58,2404.14082,Mechanistic Interpretability for AI Safety - A Review,2024.0,443,mi_general,False
+dc49884e1552d21b129eacf3b0a4c72393556158,1511.07543,Convergent Learning: Do different neural networks learn the same representations?,2015.0,431,mi_general,False
+12910786da7a34c9ee26798fd81b0ed7b0e38789,2305.01610,Finding Neurons in a Haystack: Case Studies with Sparse Probing,2023.0,355,mi_general,False
+bb26227a94ddb2b0088a23e2ec0a170c40bc4d78,2309.00941,Emergent Linear Representations in World Models of Self-Supervised Sequence Models,2023.0,340,mi_general,False
+f4b585c9a79dfce0807b445a09036ea0f9cbcdce,2003.12298,Information-Theoretic Probing with Minimum Description Length,2020.0,318,mi_general,False
+3d985d72a4ff6232503b5a95fa6f3eefbab01cef,,Interventions and Causal Inference,2007.0,317,mi_general,False
+fec726f5b47483dd1545c132a6ee8984ab3960bd,2004.03061,Information-Theoretic Probing for Linguistic Structure,2020.0,274,mi_general,False
+ac879df2cc36f3f824fa24149517622b6bc7bd09,2106.00737,Implicit Representations of Meaning in Neural Language Models,2021.0,236,mi_general,False
+112fd54ee193237b24f2ce7fce79e399609a29c5,1909.01380,The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives,2019.0,219,mi_general,False
+f5df0667365764a970fc6abfa0a68b7d1d0ae413,2401.06102,Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models,2024.0,213,mi_general,False
+4a6fb70a76968fbb136f370551f720e8d745698c,1506.02004,Sparse Overcomplete Word Vector Representations,2015.0,212,mi_general,False
+41fe7f4b3ebf9616419101faa8c5f2ee43a118b4,2106.07682,Revisiting Model Stitching to Compare Neural Representations,2021.0,208,mi_general,False
+48da5f9e5e8953f3c0d5855e2cd033541fc898c1,2310.05916,Interpreting CLIP's Image Representation via Text-Based Decomposition,2023.0,194,mi_general,False
+1bda8efbbf4abae6c8c1da97d6137396807b1e09,2404.03592,ReFT: Representation Finetuning for Language Models,2024.0,188,mi_general,False
+012dda8aef89ffa57128b15dc3cad2c02eedfa80,2310.15154,Linear Representations of Sentiment in Large Language Models,2023.0,169,mi_general,False
+53d43ccc593bf44e9aa52e3971df1b9dd396e30d,,Probing for semantic evidence of composition by means of simple classification tasks,2016.0,165,mi_general,False
+a4c0c16da0caaf4ed47fe94681f57029bff4be3b,2005.00719,Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?,2020.0,163,mi_general,False
+325100e605264947276cab315a6a97ea6fb6a097,2110.14739,Generalized Shape Metrics on Neural Representations,2021.0,161,mi_general,False
+8a94d7fb8b580621979396042aef89dbd6ec37fb,2501.16496,Open Problems in Mechanistic Interpretability,2025.0,160,mi_general,False
+2742460c702206fe19c0b5ceae97fef3499bdf76,2305.06329,Similarity of Neural Network Models: A Survey of Functional and Representational Measures,2023.0,153,mi_general,False
+d9bf49d90e1c646ade1c535f8e93d2c7413da14b,2402.01761,Rethinking Interpretability in the Era of Large Language Models,2024.0,139,mi_general,False
+11a6e5b75ce28f883100a2b233469e2cf01db947,1810.11750,Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation,2018.0,125,mi_general,False
+2ac231b9cff4f5f9054d86c9b540429d4dd687f4,2407.02646,A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models,2024.0,123,mi_general,False
+9b9dc2b3d95d2f4e4269a9818c14c70c1f801384,2104.07143,An Interpretability Illusion for BERT,2021.0,104,mi_general,False
+0a6f3e0653cca8ca4f111d46cac96cd859b2938b,,Interpretability,2021.0,101,mi_general,False
+a5cc5edcabba4c9c62cfbc3379daa140084a2a24,2301.05062,Tracr: Compiled Transformers as a Laboratory for Interpretability,2023.0,100,mi_general,False
+04d3e91a32d424f8bc076ca632c444193166fb54,2410.13928,Automatically Interpreting Millions of Features in Large Language Models,2024.0,96,mi_general,False
+8899a672040d67e8f58d1bc3efcbc966a7798c7d,2403.03867,On the Origins of Linear Representations in Large Language Models,2024.0,76,mi_general,False
+04c84f1b0c5e218ffbc5c0ba5ed9c2c62e63f28e,2104.03514,Low-Complexity Probing via Finding Subnetworks,2021.0,76,mi_general,False
+3a326123523f715f6eb74d12e38ccf7a4180dc46,2204.08831,Probing for the Usage of Grammatical Number,2022.0,75,mi_general,False
+655e4837a05afdfa03124d9c41c0912805423571,2201.00058,Representation Topology Divergence: A Method for Comparing Neural Network Representations,2021.0,75,mi_general,False
+396fdb86cad295fcc2913b23aaa6d5ef79a915c1,2010.02180,Pareto Probing: Trading-Off Accuracy and Complexity,2020.0,70,mi_general,False
+dffb0f028298ca2017255090ebd3453dce6e9ee0,2109.09234,Conditional probing: measuring usable information beyond a baseline,2021.0,68,mi_general,False
+b2a693fa90ae2f501e698a6610d7c3ef8e76f0b5,2205.14258,On the Symmetries of Deep Learning Models and their Internal Representations,2022.0,67,mi_general,False
+1f62c1f3202bc28d8c4e38c4a2a71051e9c86364,2204.05514,A Comparative Study of Faithfulness Metrics for Model Interpretability Methods,2022.0,64,mi_general,False
+d494727306a375e524c4c4c8cc1a2dc1845cc4b7,2308.14179,Towards Vision-Language Mechanistic Interpretability: A Causal Tracing Tool for BLIP,2023.0,58,mi_general,False
+d5946d10348f2c716d29e47692477a3febf9d5a2,2403.07809,pyvene: A Library for Understanding and Improving PyTorch Models via Interventions,2024.0,56,mi_general,False
+cb76ea63d870f9c14db66c40ffe746490ec1bdc4,,Using distance on the Riemannian manifold to compare representations in brain and models,2020.0,50,mi_general,False
+86ee3f8d6aa6e83ae0f9e3a674d6bec536617b94,1910.09113,Discovering the Compositional Structure of Vector Representations with Role Learning Networks,2019.0,49,mi_general,False
+11ec7f3adbda26b0ca8cb83a3c3aebd561ba5cc6,2408.10920,Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations,2024.0,47,mi_general,False
+2bcd4c8e0935662344c2bab479ef8b6b5fffcc50,2402.15179,Advancing Parameter Efficiency in Fine-tuning via Representation Editing,2024.0,47,mi_general,False
+c0f2a9febf819ba2313cfc8eb77d8acf279b51ae,2501.08319,Enhancing Automated Interpretability with Output-Centric Feature Descriptions,2025.0,39,mi_general,False
+d9f7d495701b81c5244258a2fb2f14b96dfa7869,2108.01661,Grounding Representation Similarity with Statistical Testing,2021.0,36,mi_general,False
+117d228727a3ad84052f72f14cb59f51a4e8fddc,2407.19200,On Behalf of the Stakeholders: Trends in NLP Model Interpretability in the Era of LLMs,2024.0,35,mi_general,False
+62394648facd628a87021a7ef803d0e6efeddee5,2112.06837,Sparse Interventions in Language Models with Differentiable Masking,2021.0,35,mi_general,False
+b07d676287b88eb7724e22987ea92b8dc63c913f,2502.17516,A Survey on Mechanistic Interpretability for Multi-Modal Foundation Models,2025.0,34,mi_general,False
+66583ad76bc1ce493ed3b530b9a56f87a7e684ca,2504.13151,MIB: A Mechanistic Interpretability Benchmark,2025.0,33,mi_general,False
+50e1f80c4f286cb90c0f11ae69912dfe215e323d,2309.07742,Interpretability Is in the Mind of the Beholder: A Causal Framework for Human-Interpretable Representation Learning,2023.0,29,mi_general,False
+d3942757c6760c2ebb55f3c5254b81f110a68e3b,2405.05847,"Learned feature representations are biased by complexity, learning order, position, and more",2024.0,28,mi_general,False
+396313edd272398898f68d4063c2e0dd62f54bb8,2501.17727,Automated Interpretability Metrics Do Not Distinguish Trained and Random Transformers,2025.0,28,mi_general,False
+2700e08a18f995b6ccfcf870a7d2c325f0c28688,,On Interpretability and Feature Representations: An Analysis of the Sentiment Neuron,2019.0,28,mi_general,False
+1739e02696ce26be71590f24f46967814df70a2c,2502.20914,"Everything, Everywhere, All at Once: Is Mechanistic Interpretability Identifiable?",2025.0,27,mi_general,False
+54450cceb117d7f43d160085dac8d0a1858d78d5,2305.10204,Shielded Representations: Protecting Sensitive Attributes Through Iterative Gradient-Based Projection,2023.0,27,mi_general,False
+6d2b13928cf9db71a0c245bbbdbdb7a07bd9247d,2211.11665,Representational dissimilarity metric spaces for stochastic neural networks,2022.0,26,mi_general,False
+a3ea44667a9d4b0bf7143421577ca0a5edbea591,2206.08347,Beyond Supervised vs. Unsupervised: Representative Benchmarking and Analysis of Image Representation Learning,2022.0,26,mi_general,False
+7c7e1160c6fc55444378e1cc6205c68a29d13571,2411.04430,Towards Unifying Interpretability and Control: Evaluation via Intervention,2024.0,25,mi_general,False
+e2bc390cf21dc319ea5aa9a7c3a223911dbf2012,2312.03656,Interpretability Illusions in the Generalization of Simplified Models,2023.0,25,mi_general,False
+e32803eb36116f3e218563d69b60171eddaf7024,,Understanding and Minimising Outlier Features in Transformer Training,2024.0,24,mi_general,False
+5376540a78a22795011a612837fd6fed2f2a2be6,1910.13140,Concept Saliency Maps to Visualize Relevant Features in Deep Generative Models,2019.0,24,mi_general,False
+f0704d62d773215221b0b2768505b630e057bf5b,2409.09951,Optimal ablation for interpretability,2024.0,19,mi_general,False
+5ce77edd78da2df87883d5f52ac5113a2e698449,,Detecting Hallucination in Large Language Models Through Deep Internal Representation Analysis,2025.0,17,mi_general,False
+c1ceb29224145b1a7b4e7943f43c62f25a7a80cf,2504.19475,Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video,2025.0,17,mi_general,False
+09839922836a0671fc235aad41b22ccfc52ef8ea,2210.06545,GULP: a prediction-based metric between representations,2022.0,17,mi_general,False
+38e8d73aad0bd225879ded07bd42111f2e42db4a,2503.00723,Re-Imagining Multimodal Instruction Tuning: A Representation View,2025.0,16,mi_general,False
+d6e7cec15b34786debf4cb2bddf96ff107ef62c5,2508.13152,RepreGuard: Detecting LLM-Generated Text by Revealing Hidden Representation Patterns,2025.0,16,mi_general,False
+54ddd515eba3e085025ec613027ab8b9444bd755,2601.14004,"Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models",2026.0,13,mi_general,False
+ea328ca3b32da63260b0208a2d0b58d549b7ccad,2506.05166,Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective,2025.0,13,mi_general,False
+f4c2ee3d3b6a33c9bdaa9dbef51d067ba8c33610,2408.01416,The Quest for the Right Mediator: Surveying Mechanistic Interpretability for NLP Through the Lens of Causal Mediation Analysis,2024.0,13,mi_general,False
+68cf8d5284b88b9e8ef10916599bfdb00c3f238d,2505.22586,Precise In-Parameter Concept Erasure in Large Language Models,2025.0,13,mi_general,False
+019cfc087c4294221cf2ba3d16f2318a419741d6,2507.22928,How does Chain of Thought Think? Mechanistic Interpretability of Chain-of-Thought Reasoning with Sparse Autoencoding,2025.0,12,mi_general,False
+fe83d6cca8427fa2ef2ea185e4288dd5e7f9d652,2505.16002,Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions,2025.0,12,mi_general,False
+32bcacc81c3e5f0d2252434a5cbd5795558644c7,,Bridging the Black Box: A Survey on Mechanistic Interpretability in AI,2026.0,11,mi_general,False
+a9ceeafaa5cffc975fb5aa3d591666fb0ebc47d8,2407.14494,InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques,2024.0,11,mi_general,False
+f179c2b3c5e3ea6c00de583ff8619538d1833d42,2406.01352,Position: An Inner Interpretability Framework for AI Inspired by Lessons from Cognitive Neuroscience,2024.0,10,mi_general,False
+ba72f4ed055ee6f57db256f54ce146d4f6dab020,2401.12631,"A Reply to Makelov et al. (2023)'s ""Interpretability Illusion"" Arguments",2024.0,10,mi_general,False
+fcf36a99a8eddc4a29471507d4f3ab31580baa6c,2306.03882,Causal interventions expose implicit situation models for commonsense language understanding,2023.0,10,mi_general,False
+fe860304efe129ee389725e986bdeb9eab9fd90f,2510.05184,Representation Potentials of Foundation Models for Multimodal Alignment: A Survey,2025.0,10,mi_general,False
+6650e134c4b33a3b4ece379b03a30d444bbbccd7,1912.02427,Analysis of the Optimization Landscapes for Overcomplete Representation Learning,2019.0,10,mi_general,False
+1a887cdb69abb39c1df13c4b0b17ab154db607a4,2507.09709,Large Language Models Encode Semantics and Alignment in Linearly Separable Representations,2025.0,9,mi_general,False
+cf8c00a34aba1c13826ccecdff5309eb78808f50,2512.18792,The Dead Salmons of AI Interpretability,2025.0,9,mi_general,False
+be79d0ef6dec980140bf3dc940a80a23183acf91,2503.10894,HyperDAS: Towards Automating Mechanistic Interpretability with Hypernetworks,2025.0,9,mi_general,False
+284e59cad4f3dd613bc81e00eb8e02eac8723530,,Benchmarking Interpretability Tools for Deep Neural Networks,2023.0,9,mi_general,False
+cf52335c5d4f02be824eb4dd26e1056e304c6b46,2512.15712,Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants,2025.0,8,mi_general,False
+5c8fe257bea8837eeb3bb7fe7b66e6006d8cc255,2603.18353,Interpretability without actionability: mechanistic methods cannot correct language model errors despite near-perfect internal representations,2026.0,8,mi_general,False
+52be61c3edaa54b568805db55a748ba6d8159587,2507.02559,Transformers Don't Need LayerNorm at Inference Time: Scaling LayerNorm Removal to GPT-2 XL and the Implications for Mechanistic Interpretability,2025.0,8,mi_general,False
+a46876976b64f567041a9b94fc320c77cf6c4977,2407.11215,Mechanistic interpretability of large language models with applications to the financial services industry,2024.0,8,mi_general,False
+ac644e635eeea4670e25d75e41ec035e18212d71,2408.12664,Multilevel Interpretability Of Artificial Neural Networks: Leveraging Framework And Methods From Neuroscience,2024.0,8,mi_general,False
+c9f6d6485556b6214360f6b3f630c829176fc1ec,2605.05115,Manifold Steering Reveals the Shared Geometry of Neural Network Representation and Behavior,2026.0,7,mi_general,False
+afc17f1f339b0c93f41ceb05850cb15f168ca2b8,2506.00653,Linear Representation Transferability Hypothesis: Leveraging Small Models to Steer Large Models,2025.0,7,mi_general,False
+fbe894b6a62bf470e30d8a676133406c056fa9c6,2506.21590,Representation Consistency for Accurate and Coherent LLM Answer Aggregation,2025.0,6,mi_general,False
+866fa6d1252aba3ae9f08bf962dd6d2a5dc42d3c,2602.11180,"Mechanistic Interpretability for Large Language Model Alignment: Progress, Challenges, and Future Directions",2026.0,6,mi_general,False
+a5cbe230af78780bd14c5472d8e089c16f832b28,2506.18852,Mechanistic Interpretability Needs Philosophy,2025.0,6,mi_general,False
+cd5645d273660c3f2f2d844e4f5cb68dc62471a4,2504.07898,How Do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective,2025.0,6,mi_general,False
+dce9a3815d742d062cd7ac0d60bc2964447d41dc,2501.10165,MechIR: A Mechanistic Interpretability Framework for Information Retrieval,2025.0,6,mi_general,False
+0d14d167536ae5507c4810a58fd17d2f268ac2b5,2405.17420,Survival of the Fittest Representation: A Case Study with Modular Addition,2024.0,6,mi_general,False
+728e96b224e718d7123872f47462bbcbf63984ef,2403.09516,Leveraging Prototypical Representations for Mitigating Social Bias without Demographic Information,2024.0,6,mi_general,False
+20a2bdce38ced16f82dd2b7aae137d8f81675504,,On Privileged and Convergent Bases in Neural Network Representations,2023.0,6,mi_general,False
+e6609f5414ae90476afcb3800b20ba46bbbdea52,2605.11887,Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models,2026.0,5,mi_general,False
+e2d7fa49c83af78db78c271a0a521e247f4fe4d2,2512.15134,From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?,2025.0,5,mi_general,False
+e2054b79d174d5874f5e62004468ee068dd9d258,2505.21364,Towards Interpretability Without Sacrifice: Faithful Dense Layer Decomposition with Mixture of Decoders,2025.0,5,mi_general,False
+3399b11ecf6f9e214ef895c9c03daec93c1a13c5,2602.16698,Causality is Key for Interpretability Claims to Generalise,2026.0,5,mi_general,False
+7dc67da8cb3e440c79dd26f9e6e0dcaf6bee6e71,2511.12639,Medical Knowledge Intervention Prompt Tuning for Medical Image Classification,2025.0,5,mi_general,False
+7934d9a8ad67cf81172590bcbe44e9a9aba24f9b,2502.06536,Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions,2025.0,5,mi_general,False
+3eaacb86487b8e6038bf4ed21110a5c4ae2e8f55,2501.18887,"Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability",2025.0,5,mi_general,False
+a18b0cf58fd8c4fbcac9585e80499b7b1bc72a47,2511.19265,Unboxing the Black Box: Mechanistic Interpretability for Algorithmic Understanding of Neural Networks,2025.0,5,mi_general,False
+5813e3ad18e5bb281dd7f9a95f16824e5fafbc10,2510.03366,Disentangling Recall and Reasoning in Transformer Models through Layer-wise Attention and Activation Analysis,2025.0,5,mi_general,False
+fd735e3caa806ea3b0d46ec1ac6ba28931e56699,2601.13548,Patterning: The Dual of Interpretability,2026.0,5,mi_general,False
+042cceba8a258421c5920f87df51cac18558f190,2604.04496,The Indra Representation Hypothesis for Multimodal Alignment,2026.0,5,mi_general,False
+ca611fb6e4fb7010c0bad182cebbb894dc46f17f,2203.05488,Geometric and Topological Inference for Deep Representations of Complex Networks,2022.0,5,mi_general,False
+c769687bf581aa5dd9cafd1aa0e0e2ed6de15ff0,,Disentangling Transformer Language Models as Superposed Topic Models,2023.0,5,mi_general,False
+c34ecb622026680b1328589e8a4706cc4e5b038f,2509.23323,LLM Interpretability with Identifiable Temporal-Instantaneous Representation,2025.0,4,mi_general,False
+91108c04421f986927130c2ea32ea13e305d3115,2506.02132,Model Internal Sleuthing: Finding Lexical Identity and Inflectional Features in Modern Language Models,2025.0,4,mi_general,False
+a5aa8aa01092939cba984f376e3be33074036459,2508.01916,Decomposing Representation Space into Interpretable Subspaces with Unsupervised Learning,2025.0,4,mi_general,False
+0f3de7dba40dd4634e9c153ce5fcf89d764518a9,,Deep Neural Networks Internal Representation via Neuron Community Exploration,2026.0,4,mi_general,False
+7ae78424959610c26413035dffa164c8f09ca06a,2504.06303,On the Effectiveness and Generalization of Race Representations for Debiasing High-Stakes Decisions,2025.0,4,mi_general,False
+5caa0e0c8d0101d04918323d3e8197c02a80d3aa,2506.19532,Toward the Explainability of Protein Language Models,2025.0,4,mi_general,False
+a42c714b6e43abc1f1e9c332a48747ced3fa7752,2402.03855,Challenges in Mechanistically Interpreting Model Representations,2024.0,4,mi_general,False
+2ac02b784d78ce62008982fedc6558c4e9853bed,,Towards the explainability of protein language models,2026.0,3,mi_general,False
+3365a780fe92378783b6cd5e60a723bcd07574a5,2602.11246,How Many Features Can a Language Model Store Under the Linear Representation Hypothesis?,2026.0,3,mi_general,False
+015401990d7cfa5c005c83743e6cfdee1757ab52,2602.02313,Interpreting and Controlling LLM Reasoning through Integrated Policy Gradient,2026.0,3,mi_general,False
+ea9994526369201543d82f15df6df21504ce4654,2509.05291,Crosscoding Through Time: Tracking Emergence & Consolidation Of Linguistic Representations Throughout LLM Pretraining,2025.0,3,mi_general,False
+691a98d12b1a15e3bac08554c9fa9c8a12b5d9cb,2508.06030,Efficient Knowledge Probing of Large Language Models by Adapting Pre-trained Embeddings,2025.0,3,mi_general,False
+4fd6aff1f294f0a23dced079240a52e2ffcd5f3a,2511.04638,Addressing divergent representations from causal interventions on neural networks,2025.0,3,mi_general,False
+0d9276843992471971a56729f4b8c5aaf0208571,2506.06686,Learning Distribution-Wise Control in Representation Space for Language Models,2025.0,3,mi_general,False
+1dd76d9e4ba70a18477a69b63c89eab1e4d29f52,2505.01372,Evaluating Explanations: An Explanatory Virtues Framework for Mechanistic Interpretability - The Strange Science Part I.ii,2025.0,3,mi_general,False
+f3aac890d279c220f3b35931be087d38d2da4a8d,2412.07334,Frame Representation Hypothesis: Multi-Token LLM Interpretability and Concept-Guided Text Generation,2024.0,3,mi_general,False
+2aeddd0240f0d812ea5b0bca4c04ed950bbf1091,2510.17256,Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations,2025.0,3,mi_general,False
+ac3e915202f2ca382d558f6e538723e8633c8b89,2506.16975,Latent Concept Disentanglement in Transformer-based Language Models,2025.0,3,mi_general,False
+2aa6fe7b5fa2c7ad7411bd55e00a6801dd231810,2602.04212,Language Models Struggle to Use Representations Learned In-Context,2026.0,3,mi_general,False
+14302169b95f0948b1f914839842c69a12467a48,2601.22364,Context Structure Reshapes the Representational Geometry of Language Models,2026.0,3,mi_general,False
+84e43009486077350eedcfe7688def19772fa518,2511.10840,Tracing Multilingual Representations in LLMs with Cross-Layer Transcoders,2025.0,3,mi_general,False
+8e437a1017e392c323c4c34c26d2d896c0623706,2507.22918,Semantic Convergence: Investigating Shared Representations Across Scaled LLMs,2025.0,3,mi_general,False
+9424f58ab765e990ebb27a0f5355d2a2354195d9,2601.22012,Putting a Face to Forgetting: Continual Learning meets Mechanistic Interpretability,2026.0,2,mi_general,False
+3c3379699052b9c259bbe4080a6356b3fae3dc4f,2601.03657,In Search of Grandmother Cells: Tracing Interpretable Neurons in Tabular Representations,2026.0,2,mi_general,False
+a8901abfca87deb347319d2c62157fd3b6fbd697,2512.04691,Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective,2025.0,2,mi_general,False
+2fb3b9d75e60516c63d85b0ee6f5492dbb6bcf39,2604.16042,Towards Intrinsic Interpretability of Large Language Models:A Survey of Design Principles and Architectures,2026.0,2,mi_general,False
+695933fbd7b9b87acffa263d8aba03057be280c0,2604.08524,What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal,2026.0,2,mi_general,False
+bb3b942e5815172ffc090a7fecfa4662f453d85e,2412.17019,Reversed Attention: On The Gradient Descent Of Attention Layers In GPT,2024.0,2,mi_general,False
+7d829d49b1c3509408f5a064ce271d1f3dfde835,2605.13675,Characterizing Universal Object Representations Across Vision Models,2026.0,1,mi_general,False
+4db14433f31d55b70a1580235b597e78ef3814fe,,"Explainable artificial intelligence for the analysis of histopathological images of breast cancer: methods, interpretability and emerging directions",2026.0,1,mi_general,False
+6f40661e8a0e5d20dad4ff5bbeb0903e02833dcc,2602.12403,MonoLoss: A Training Objective for Interpretable Monosemantic Representations,2026.0,1,mi_general,False
+2b04971b0b889935385a2b5da69cc4532056851c,2601.20075,Sparse CLIP: Co-Optimizing Interpretability and Performance in Contrastive Learning,2026.0,1,mi_general,False
+4358b00c0f02977405d12c3ccfe249e67b8d2b66,2602.08159,The Confidence Manifold: Geometric Structure of Correctness Representations in Language Models,2026.0,1,mi_general,False
+5f782ff7f392c410f168d56d482285e6e537f844,2509.25045,Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures,2025.0,1,mi_general,False
+43aef71fdf8bb51bfd777d677b87c5c45aba81b8,2606.00033,Make Mechanistic Interpretability Auditable: A Call to Develop Guidelines via Continuous Collaborative Reviewing,2026.0,1,mi_general,False
+6d2330a1cc15c00a9cd16b065fa472ac7ecba423,2602.05184,Towards Worst-Case Guarantees with Scale-Aware Interpretability,2026.0,1,mi_general,False
+65502ffc46aa8b1d6ec2507cbdd1f236da2f7267,2510.01288,Microsaccade-Inspired Probing: Positional Encoding Perturbations Reveal LLM Misbehaviours,2025.0,1,mi_general,False
+bc9df59de5d6f138e4ee4604728e8c2a54c5e37d,2504.20197,Representation Learning on a Random Lattice,2025.0,1,mi_general,False
+a87d4a3d9dc569497b372db93037d9bb0ba33b13,2603.21546,What Do World Models Learn in RL? Probing Latent Representations in Learned Environment Simulators,2026.0,1,mi_general,False
+90df5be685de81b6b1acde9031629969b9ce2b49,2605.17641,Causal Intervention-Based Memory Selection for Long-Horizon LLM Agents,2026.0,1,mi_general,False
+e15b131254adbfddb4b8ace75f18c3d9b44aac2c,2605.08934,From Mechanistic to Compositional Interpretability,2026.0,1,mi_general,False
+2b71206bc8a090e1b4c3588b8ed14e92aa3a58cf,2603.01879,Diagnosing Generalization Failures from Representational Geometry Markers,2026.0,1,mi_general,False
+625ea7a6a13e3438c3387d7742405d2aa7489b21,2503.16724,Towards Automated Semantic Interpretability in Reinforcement Learning via Vision-Language Models,2025.0,1,mi_general,False
+5107e1f68a9c7a38b4a35432ceb01d260c680bc9,2605.11161,Interpretability Can Be Actionable,2026.0,1,mi_general,False
+b58fa6c7d2465cb2c53fbcad255f87aaeb328656,2603.03415,"Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs",2026.0,1,mi_general,False
+bea3e952e8165bc4f00404105f021d35b4aba76e,2603.16017,Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability,2026.0,1,mi_general,False
+4cf77e67dd26e9b7531b9ebeb58ecd0987340e5f,2602.06841,From Features to Actions: Explainability in Traditional and Agentic AI Systems,2026.0,1,mi_general,False
+cbb04421705c0f05c48f6d49e1e937e3a3d347a7,2604.13123,Spectral Entropy Collapse as a Phase Transition in Delayed Generalisation: An Interventional and Predictive Framework for Grokkin,2026.0,1,mi_general,False
+16da1355d886c6a16e78a22233befba29bf9e0b7,2604.10044,LoopGuard: Breaking Self-Reinforcing Attention Loops via Dynamic KV Cache Intervention,2026.0,1,mi_general,False
+bdf62d98131d639adb68d4c8ee009125d5927175,,Towards Uncovering How Large Language ModelsWork: An Interpretability Perspective,2025.0,1,mi_general,False
+449fcf999af8f1307b516957be20304c6c12664b,2602.18458,The Story is Not the Science: Execution-Grounded Evaluation of Mechanistic Interpretability Research,2026.0,1,mi_general,False
+c199feb4adf59ab4716e2f932116d45fd7e5f330,2505.13899,Causes and Consequences of Representational Similarity in Machine Learning Models,2025.0,1,mi_general,False
+18384340ce10505f98924032f1f31777ba42a5b7,2409.01610,Decompose the model: Mechanistic interpretability in image models with Generalized Integrated Gradients (GIG),2024.0,1,mi_general,False
+33d889259953f791757acd10ccc31c816bcc5efe,2212.13392,DeepCuts: Single-Shot Interpretability based Pruning for BERT,2022.0,1,mi_general,False
+f61b7000d3f52f4909358944cfb4e072069f252e,2606.12629,Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns,2026.0,0,mi_general,False
+32a848b72213986e386b8b30163e9769cab0cec9,2606.09653,A Unifying Framework for Concept-Based Representational Similarity,2026.0,0,mi_general,False
+2390f86c6cb070e9d4116f670b9064ff8815ff19,2606.09936,"One Lens, Many Worlds : A Capability-Typed Interface for World-Model Interpretability",2026.0,0,mi_general,False
+69b0d45d22dd852f9584adbd9e23e89f2bf03d0e,2606.07714,Beyond Accuracy: Interpreting Topic Representation in Suicide Ideation Detection Models,2026.0,0,mi_general,False
+3ab114b99b59468652f0e8a1c211ebbe4b0b24dc,2606.02765,Representational Capacity: Geometric Limits on Feature Representation in Transformer Language Models,2026.0,0,mi_general,False
+96c91b120398d1c236bec78a2b54259fc2e0115f,2606.02841,Learning Coherent Representations: A Topological Approach to Interpretability,2026.0,0,mi_general,False
+a598fa22bd0f483926f1f2d25ff93c6e685e34ec,2606.01095,Beyond Task Success: Behavioral and Representational Diagnostics for WAM and VLA,2026.0,0,mi_general,False
+00d12bcfb155cee914f997e03aeb58c7a231fdd1,2606.07607,Position: Genomic Model Research Must Move Beyond Anecdotal Evaluation of Interpretability Methods,2026.0,0,mi_general,False
+07a07a93830a3093403ac903638e91bd30c57f72,2605.29889,"Internal Representation, Not Clinical Knowledge: Where Apparent LLM Triage Failures Originate",2026.0,0,mi_general,False
+643698be8a30e3b4cbcb3c4a1d7a26f820388525,2605.28722,Multi-Adapter Representation Interventions via Energy Calibration,2026.0,0,mi_general,False
+b0be7060491a84cdef43d227f52e022b040f7e9a,2605.26921,Similarity-based matrix factorization for revealing interpretable dimensions in representational data,2026.0,0,mi_general,False
+3696b4918f6151846262ee249710cb0e2961156a,2605.25225,Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability,2026.0,0,mi_general,False
+851822435103ade081e7a6f2701504aa6edeb121,2605.24577,Polymorphism Is Rotation: Operational Mechanistic Interpretability from a Two-Layer Transformer to Pythia-70m,2026.0,0,mi_general,False
+2d98864f3654607d97ed28e307a4551a3ec9a6cf,2605.21849,Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift,2026.0,0,mi_general,False
+6d386dafc127c04374bf70915ee89257a162b0ab,2605.23040,Steered Generation via Gradient-Based Optimization on Sparse Query Features,2026.0,0,mi_general,False
+be9e18e06212b84beb6c9da194e9bc328a40914a,2605.20607,Mechanistic Interpretability for Learning Assurance of a Vision-Based Landing System,2026.0,0,mi_general,False
+d438578de160219d1f963f3b0ac4dd4aad45f7a9,2605.21058,A Dialogue between Causal and Traditional Representation Learning: Toward Mutual Benefits in a Unified Formulation,2026.0,0,mi_general,False
+38393ba9db97120a5a9851bd2aa1552876c98001,2605.20337,Capability $\neq$ Interpretability: Human Interpretability of Vision Foundation Models,2026.0,0,mi_general,False
+a1a2087f030587d69704f70494a3f90fbdfdae57,2605.17704,Toy Combinatorial Interpretability Models Reveal Lottery Tickets in Early Feature Space,2026.0,0,mi_general,False
+58dbe1119f6ca835387c65fc0f98201495d50b9f,2605.15183,When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability,2026.0,0,mi_general,False
+d58b4a9c7f26bf5fc106ba282badedfbc64d4658,2605.10815,Probing Cross-modal Information Hubs in Audio-Visual LLMs,2026.0,0,mi_general,False
+179818f65f46a8cadf7cbb7221d64c4c630faea1,2605.10971,Steering Without Breaking: Mechanistically Informed Interventions for Discrete Diffusion Language Models,2026.0,0,mi_general,False
+8cfdcb6ce2f3391e811ca44474863e89a1ae96c5,,Mechanistic Interpretability of Large Language Models using Kolmogorov-Arnold Networks,2026.0,0,mi_general,False
+1b023c6e677971a3dbae5960c8a503dd9d85710e,2605.03953,Transformers with Selective Access to Early Representations,2026.0,0,mi_general,False
+c77327f402979d26479627a2f1086b9e28805043,2605.03348,"Toward Structural Multimodal Representations: Specialization, Selection, and Sparsification via Mixture-of-Experts",2026.0,0,mi_general,False
+0b4a741bb4a1cf0b7a78c59a4581f4fd7aa52d60,,FAO-Former: Learning Disentangled Semantic Representations with Frequency-Aware Orthogonal Transformer,2026.0,0,mi_general,False
+ba02e57b6f0a99767a5df596fd87a0be0602a14f,2605.01381,A framework for analyzing concept representations in neural models,2026.0,0,mi_general,False
+f7745834b194c4c583406552ec3d1ae1249caf00,2605.01555,Automated Interpretability and Feature Discovery in Language Models with Agents,2026.0,0,mi_general,False
+7798a0d055c714eca67e8a477905b85aa33c3b35,2605.01609,Concepts Whisper While Syntax Shouts: Spectral Anti-Concentration and the Dual Geometry of Transformer Representations,2026.0,0,mi_general,False
+d594c109d2ca3523ee739266a792495e7eccab7a,2605.22679,Conceptualizing Embeddings: Sparse Disentanglement for Vision-Language Models,2026.0,0,mi_general,False
+3ea2a9930e7bbf6a6c2e3488ea5b7a325a73e701,2605.08740,"Causal Dimensionality of Transformer Representations: Measurement, Scaling, and Layer Structure",2026.0,0,mi_general,False
+682970abd8ae727811f4ec2256009478c172dd07,,Decoding and controlling emotion in LLMs through human-aligned representational geometry with enhanced interpretability,2026.0,0,mi_general,False
+1540b8c60b1e5328a11f9e71e3c3f41ff149c327,2604.07019,ConceptTracer: Interactive Analysis of Concept Saliency and Selectivity in Neural Representations,2026.0,0,mi_general,False
+fc00eedd533612c74f5ab1784afd3d64d32efe36,2605.28825,MechELK: A Mechanistic Interpretability Framework for Eliciting Latent Knowledge in Large Language Models,2026.0,0,mi_general,False
+389bdacd7c3555410f570276ea084cd613ece839,2603.18056,Fundamental limits of neural network sparsification: Evidence from catastrophic interpretability collapse,2026.0,0,mi_general,False
+dc41b880b874f5564d92f53fabf184ae9e283221,2603.16440,Capability-Guided Compression: Toward Interpretability-Aware Budget Allocation for Large Language Models,2026.0,0,mi_general,False
+640f9171315f3d9911f128c3169d4813050241b4,2603.15919,Sparse but not Simpler: A Multi-Level Interpretability Analysis of Vision Transformers,2026.0,0,mi_general,False
+f0db16b6d0708026a6ca0405665d539b13f8ce82,,Realist representational explanations of agency should require some unity of purpose,2026.0,0,mi_general,False
+7ebdcc7f04ca5902b0a45d99f28969df9650621e,2602.05183,Data-Centric Interpretability for LLM-based Multi-Agent Reinforcement Learning,2026.0,0,mi_general,False
+4bc85a0069a34210fea93871a1ccd855888ae269,2602.00924,Supervised sparse auto-encoders for interpretable and compositional representations,2026.0,0,mi_general,False
+71b1eff2e9013c86f02cc27453fe70b533d896c1,2512.19734,The Deleuzian Representation Hypothesis,2025.0,0,mi_general,False
+4dfdfb9a4bb99e88ffe4239990bfe16ba8463337,2606.02528,Auditing Asset-Specific Preferences in Financial Large Language Models: Evidence from Bitcoin Representations and Portfolio Allocation,2026.0,0,mi_general,False
+74be4ef58d907292d3ab2e40c90f8672aac1b3b9,2605.14347,Exemplar Partitioning for Mechanistic Interpretability,2026.0,0,mi_general,False
+05153d9def2514e9b5f873115e9b08d41d0d238f,2604.11061,Pando: Do Interpretability Methods Work When Models Won't Explain Themselves?,2026.0,0,mi_general,False
+e8c11b785ffbd39143e29cf048ccf931c5ef86b7,2603.14087,Understanding the Emergence of Seemingly Useless Features in Next-Token Predictors,2026.0,0,mi_general,False
+0ad3ea5d2ecc7b7450b125b6244366cc94a880f7,2602.10352,Learning Self-Interpretation from Interpretability Artifacts: Training Lightweight Adapters on Vector-Label Pairs,2026.0,0,mi_general,False
+41e936b755c5a3ddfbc53904edd0d9b0f1bc9381,2510.27413,Atlas-Alignment: Making Interpretability Transferable Across Language Models,2025.0,0,mi_general,False
+6daad254195fe31be54a42fc714be3349bf79dcc,2510.01252,GPT and Prejudice: A Sparse Approach to Understanding Learned Representations in Large Language Models,2025.0,0,mi_general,False
+b1f8b41906a3b0817b8aa28eb98645716f7c3dd1,2606.08394,When Correct Decisions Hide Internal Stress: Decision-State Probing in Multimodal Language Models,2026.0,0,mi_general,False
+c448720608902f0b692285f65eee048d6457db58,2605.29971,Causal Interventions on Continuous Variables: A Case Study on Verb Bias in Steering Vectors for In-Context Learning,2026.0,0,mi_general,False
+bca769cc5e3f81e3443769e17dd43550c64ea283,2605.25156,Abduction-Deduction Entanglement: Domain Generalization via Representation Transplants,2026.0,0,mi_general,False
+37930bc0d96f2c4fa8655b02442d69ccf37b67ff,2605.07148,Uncovering and Shaping the Latent Representation of 3D Scene Topology in Vision-Language Models,2026.0,0,mi_general,False
+e80cc82f7e896fbe47addf1ebfd24f0b4aa606d4,2605.05593,Causal Probing for Internal Visual Representations in Multimodal Large Language Models,2026.0,0,mi_general,False
+00c93068e3a4fc9bfb61dd679e1d769ac7e3736a,2603.26494,Entanglement as Memory: Mechanistic Interpretability of Quantum Language Models,2026.0,0,mi_general,False
+2e460419bd1eafe8062de08e52c7e63b0bce7e91,2603.09988,Causally Grounded Mechanistic Interpretability for LLMs with Faithful Natural-Language Explanations,2026.0,0,mi_general,False
+a7d767585ce3f6a793c451f8e24de9fdcf2b1684,2602.11169,Disentangling Direction and Magnitude in Transformer Representations: A Double Dissociation Through L2-Matched Perturbation Analysis,2026.0,0,mi_general,False
+92a3bf75a8b3770fc1844f5090259762798c80df,,Reversing the Death of Hypertext: Mechanistic Interpretability for LLM Navigation,2026.0,0,mi_general,False
+0dbdb3381083ebcdbb3dc23f032883337d502bd0,,DIPF: Dual-Intervention Prompt Framework for Emotion Recognition in Conversation,2025.0,0,mi_general,False
+9125706b489e47beba602fc1a905621c4da35edc,2502.00384,Interpreting Emergent Features in Deep Learning-based Side-channel Analysis,2025.0,0,mi_general,False
+ea981b3708ad4ab9eaf4cc4e823d154aeb588587,2606.08044,When Behavioral Safety Evaluation Fails: A Representation-Level Perspective,2026.0,0,mi_general,False
+638658ba2406e9c90088f79b83e0879bce0f59ab,2606.07998,Enhancing AI Interpretability and Safety through Localised Architectures,2026.0,0,mi_general,False
+31e7c09feb786bcdbdc47cc7cfc314eb31d800ba,2605.26431,Probing Minimalist Phase Structure in LLMs: What Universal Dependencies Cannot Represent,2026.0,0,mi_general,False
+f583e0b92c5018bd6b699eceb5d997c59677a6f7,,Formats of representation in large language models,2026.0,0,mi_general,False
+69a24d171c86957b716092376af894662a1a9549,2512.24842,Triangulation as an Acceptance Rule for Multilingual Mechanistic Interpretability,2025.0,0,mi_general,False
+c57845c292aec28dd53fba3b947d6eea8899f5ee,,Causal-KAN: Learning Causal Mapping Representations by Injecting Causal Knowledge,2025.0,0,mi_general,False
+cb776094a231ec695f0762c116c40a041ec79e92,2506.09277,NeuroFaith: Evaluating LLM Self-Explanation Faithfulness via Internal Representation Alignment,2025.0,0,mi_general,False
+b4c285c57aedefd512f2ca5b490470345a77b556,2505.18672,Does Representation Intervention Really Identify Desired Concepts and Elicit Alignment?,2025.0,0,mi_general,False
+ecd0f63b97951dc67f1c9254101485aee952ae5f,2505.18244,Emergent Hierarchical Structure in Large Language Models: An Information-Theoretic Framework for Multi-Scale Representation,2025.0,0,mi_general,False
+cc5b66d0468a42829484a7fb8b1e9648e591deca,,What’s your Use Case? A Taxonomy of Causal Evaluations of Post-hoc Interpretability,,0,mi_general,False
+3b86aa7e4a872ce342e975179aef30c027f18294,2605.08012,Position: Mechanistic Interpretability Must Disclose Identification Assumptions for Causal Claims,2026.0,0,mi_general,False
+3fd29091b95d26db32132ed39e757ad3f6daa0e4,2603.23821,Perturbation: A simple and efficient adversarial tracer for representation learning in language models,2026.0,0,mi_general,False
+ffdadb6c06013a7ad4265087bce7dbd15811ebdd,2509.08592,Interpretability as Alignment: Making Internal Understanding a Design Principle,2025.0,0,mi_general,False
+82cf6953dbd47d3be816d4ea3a413d1a7ec35ccc,,Optimal Transport for Federated Learning: Bridging Semantics and Alignment through Mechanistic Interpretability,,0,mi_general,False
+a562c3b82946c2ca644adaec2f4f4f85fb38ca60,2606.14388,A Low-Rank Subspace Analysis of LLM Interventions,2026.0,0,mi_general,False
+5a94d17a76287f3dda8e0ec325fd1fe80c20750d,2605.28854,Large language models reorganize representational geometry during in-context learning,2026.0,0,mi_general,False
+0d7dcebf0f0fc64b54500b3aaf4ba0902b88d5bb,2605.09881,Dissecting Jet-Tagger Through Mechanistic Interpretability,2026.0,0,mi_general,False
+6e2452363a760e5e399af44b2d404aba06f3de1d,2605.09195,The Geometry of Forgetting: Temporal Knowledge Drift as an Independent Axis in LLM Representations,2026.0,0,mi_general,False
+f29ab62100f7bf1c5842d6db3c3bf70a561181de,2605.06480,Patch-Effect Graph Kernels for LLM Interpretability,2026.0,0,mi_general,False
+bf8c710e100d73d3cb89490fc778f4f397eef72e,2606.11205,Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention,2026.0,0,mi_general,False
+e787a35ba2c5c79fe3f8a358b7d78fd4ca97513f,2604.17761,Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks,2026.0,0,mi_general,False
+6eda4d95fb384b6e05df39ec2b30dbcf8f6b1b20,2604.15294,How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study,2026.0,0,mi_general,False
+548b48bc174c8d3f84366d20d23a67de5ccc9407,2604.13950,Causal Drawbridges: Characterizing Gradient Blocking of Syntactic Islands in Transformer LMs,2026.0,0,mi_general,False
+8af53b034fdc65277e78fa460d36ee9ce04c554e,2605.04061,Single-Position Intervention Fails: Distributed Output Templates Drive In-Context Learning,2026.0,0,mi_general,False
+5848c9243250d62ca3049b85a887475af17c52f2,2604.01590,PhiNet: Speaker Verification With Phonetic Interpretability,2026.0,0,mi_general,False
+112420d9b61b069ded0ac21759a08e80caa0280b,2603.27518,Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs,2026.0,0,mi_general,False
+abc6b12ff8a508e26191242e573d1cd748828f12,2603.20867,Semantic Sections: An Atlas-Native Feature Ontology for Obstructed Representation Spaces,2026.0,0,mi_general,False
+07799a6fea80cf9fcbab6bd2299168c9deccc8fc,2603.20101,Pitfalls in Evaluating Interpretability Agents,2026.0,0,mi_general,False
+35031abc96ef672e8dc7cf8256d4b2aabf5b9b5b,2604.13068,Detection Without Correction: A Robust Asymmetry in Activation-Based Hallucination Probing,2026.0,0,mi_general,False
+b4db2f121a7f4e470064513b0604408bb942eae3,2603.17624,Do Language Models Encode Semantic Relations? Probing and Sparse Feature Analysis,2026.0,0,mi_general,False
+67fb0de53f4233f1f25ed66509535592729ce114,,"Linear Lens: A human-centered, non-interventional mechanistic approach to explainable AI",2026.0,0,mi_general,False
+0208f605f0775341be71a441326a8b549cf7a01c,2605.30482,Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability,2026.0,0,mi_general,False
+bc3b7e9f58a900fd7c98e24881eb21d6ffd5716c,2605.09875,Cross-Family Universality of Behavioral Axes via Anchor-Projected Representations,2026.0,0,mi_general,False
+492726e36c7b63b2996bf757cc0dd63b1974fcbc,2605.03217,Moral Sensitivity in LLMs: A Tiered Evaluation of Contextual Bias via Behavioral Profiling and Mechanistic Interpretability,2026.0,0,mi_general,False
+4c60c5abc731566cc7b5de5ba97990bb1bfcb4ae,2604.03045,STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models,2026.0,0,mi_general,False
+c025308b9dfc8741db4a65e9c14222e02dc51d78,2603.29206,Route-Induced Density and Stability (RIDE): Controlled Intervention and Mechanism Analysis of Routing-Style Meta Prompts on LLM Internal States,2026.0,0,mi_general,False
+0239a7b8264704d4a8e6b3a63ce417d8c56b73ef,2603.17942,Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing,2026.0,0,mi_general,False
+aae1ce6ac85a0a399b383da5574a60a76401373c,,Exploring the Limits of Probes for Latent Representation Edits in GPT Models,2026.0,0,mi_general,False
+02c57e6e7435b10be0b1170481295ef67ef9bb8a,2602.21442,MINAR: Mechanistic Interpretability for Neural Algorithmic Reasoning,2026.0,0,mi_general,False
+aa709394b527d96947194fb0677b8b026e3b4c40,2602.03506,Explaining the Explainer: Understanding the Inner Workings of Transformer-based Symbolic Regression Models,2026.0,0,mi_general,False
+5949d879f616330bdb8d1f2384ed95fc84113efc,2602.01247,Mechanistic Interpretability of Brain-to-Speech Models Across Speech Modes,2026.0,0,mi_general,False
+45d580261fd59c14d7e3901bb1d0c40d92b512fe,2602.01442,Hidden Heroes and Gradient Bloats: Layer-Wise Redundancy Inverts Attribution in Transformers,2026.0,0,mi_general,False
+b90546ce300ded99944a03bd269fb892252f8ff6,2606.09287,Trajectory Geometry of Transformer Representations Across Layers,2026.0,0,mi_general,False
+39008bf44f1b7222bc37eb58100504c8bb68b167,2605.07271,Understanding Performance Collapse in Layer-Pruned Large Language Models via Decision Representation Transitions,2026.0,0,mi_general,False
+32ae4f9ef1c7f729dbd17f8104a95d0b2240b1c0,2604.15842,Disentangling Mathematical Reasoning in LLMs: A Methodological Investigation of Internal Mechanisms,2026.0,0,mi_general,False
+59ef9fc0faf0fb72ab84a654dd6bc45a65126ced,2602.07794,Emergent Structured Representations Support Flexible In-Context Inference in Large Language Models,2026.0,0,mi_general,False
+f359093322d7cffa261492b03216737a03b47c60,,Linear Separability and Feature Importance Analysis in Large Language Model Representation Spaces,2026.0,0,mi_general,False
+46c4ad651b203cb69aa17beb9dcc110d36674550,2606.17037,The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers,2026.0,0,mi_general,False
+67e9dda43b800b82ea838f02318301ea3598d7b8,2606.15733,Vernier: Probing Representational Misalignment Behind Lexical Gaps in Causal Reasoning,2026.0,0,mi_general,False
+cdb9b201e98a43a2869cfcbe06d159af81158386,2606.11375,"When Probing Accuracy Saturates, Fragility Resolves: A Complementary Metric for LLM Pre-Training Analysis",2026.0,0,mi_general,False
+98dd1e2b2abb8f1dbaa5e055389f108afdcc6a83,2606.07978,MechLens: Late Crystallization of Factual Knowledge Explains Intervention Effectiveness in Language Models,2026.0,0,mi_general,False
+3a79ef0313b0935c9d6293af2c912ab6d07f3c88,2606.03398,Causal Evidence of Stack Representations in Modeling Counter Languages Using Transformers,2026.0,0,mi_general,False
+b00c05aec6d4e030f0732c677300f2cfbd6763d8,2606.01243,Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention,2026.0,0,mi_general,False
+a80ed5b163be958380c4d4e4676de2b8d0a04814,2605.31025,TRACE: Discovering Task-Specific Parameter via Adaptation-Aware Probing for Continual Fine-Tuning,2026.0,0,mi_general,False
+1560f939b4d2f613a16579934c0746946a340a59,2605.31556,Vision-Language Models Suppress Female Representations Under Ambiguous Input,2026.0,0,mi_general,False
+81c36893384f629476cc5b2af298d24540f48a0b,2605.23315,Convergence Without Understanding: When Language Models Agree on Representations but Disagree on Reasoning,2026.0,0,mi_general,False
+a6a7bac08a3ece81885ece835146976571a7c02e,2605.14749,Non-linear Interventions on Large Language Models,2026.0,0,mi_general,False
+b0a153ac603effc94327e3c665e79e385416057e,2605.09270,"Memorize Theorems, Not Instances: Probing SFT Generalization through Mathematical Reasoning",2026.0,0,mi_general,False
+8b7a1124a46a436043c3544dd243c74cf4d2241d,2601.07473,AntiPaSTO: Self-Supervised Honesty Steering via Anti-Parallel Representations,2026.0,0,mi_general,False
+be7df2cfcb9527bb3a36a1f4e1bae6ae5336372f,2510.04285,Probing Geometry of Next Token Prediction Using Cumulant Expansion of the Softmax Entropy,2025.0,0,mi_general,False
+33f9d2516697ba9e076e47bfdf3d6cdfcc3d8c1d,2605.12890,Steer-to-Detect: Probing Hidden Representations for Detection of LLM-Generated Texts,2026.0,0,mi_general,False
+83b522f4bfa5db7f7d34f839475af7d078107634,,$rm K$-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation,2006.0,8022,sae,False
+edb548fe7574d99454b352ffdb61bca93c3072ba,2309.08600,Sparse Autoencoders Find Highly Interpretable Features in Language Models,2023.0,1276,sae,True
+9d125f45b1d2dea01f05281470bc08e12b6c7cba,2209.10652,Toy Models of Superposition,2022.0,881,sae,False
+1b6e16cc72aee038eb1879b8686b53776be3d51f,2605.29358,Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet,2026.0,586,sae,False
+b94043a133e3d07ed0b1cfc036829e619ea0ba22,1312.5663,k-Sparse Autoencoders,2013.0,577,sae,False
+0d24c5680efe9769e6d7ea579db0499ec819a8c7,2406.04093,Scaling and evaluating sparse autoencoders,2024.0,494,sae,True
+890efc891e9b59e8cb5e8c244428f6b81ec0a4da,2408.05147,Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2,2024.0,358,sae,True
+1a80429448d7379ca1157a33a36bd5130257e3e9,2407.14435,Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders,2024.0,265,sae,False
+bb94ea8f2e600a2729d11c359c3787bcff2d4f6a,2501.17148,AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders,2025.0,180,sae,False
+bbf218fd97d3c18801eb6eb09345bb38e7bcc871,2404.16014,Improving Dictionary Learning with Gated Sparse Autoencoders,2024.0,173,sae,False
+2454c15f9708dc337a2ed849e897f99c43b8f6cb,2410.20526,Llama Scope: Extracting Millions of Features from Llama-3.1-8B with Sparse Autoencoders,2024.0,127,sae,False
+7cc88a1a904e8bb6edc1123c0800d1c5a0ea435d,2103.15949,Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors,2021.0,123,sae,False
+8cbc7c757766697a56e7cf881605b8e414ab2fdc,2409.14507,A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoencoders,2024.0,121,sae,True
+f67b4718b8425aff8c4156757ec0d9c9958ab7d0,2503.17547,Learning Multi-Level Features with Matryoshka Sparse Autoencoders,2025.0,111,sae,False
+8c1a913f7c0626e28e07fad8021f85457eb2f5d6,2412.06410,BatchTopK Sparse Autoencoders,2024.0,105,sae,False
+447b7fa233fe9b129001f0bb7f5c4a900de29e5d,2503.09532,SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability,2025.0,96,sae,False
+16ed211c2e2205c28aa18d08cb7accdaf582134a,2502.16681,Are Sparse Autoencoders Useful? A Case Study in Sparse Probing,2025.0,89,sae,False
+10ab44c08b143739abd91879b00eaafbc0a781ec,2411.11296,Steering Language Model Refusal with Sparse Autoencoders,2024.0,78,sae,False
+c5d82b27897633d6c3b2e452a0dc6c019d4a1565,2405.08366,Towards Principled Evaluations of Sparse Autoencoders for Interpretability and Control,2024.0,76,sae,False
+54e200091d986715707f454b2985be898eaebad1,2501.16615,Sparse Autoencoders Trained on the Same Data Learn Different Features,2025.0,72,sae,False
+02cf0e7a782b6c0f04863f9c9ee5b4e77394deb6,2210.01892,Polysemanticity and Capacity in Neural Networks,2022.0,69,sae,False
+f56b77a4bc90c61d4351a39a578f4c1f4a967830,2502.04878,Sparse Autoencoders Do Not Find Canonical Units of Analysis,2025.0,65,sae,False
+02ad427b0d20fb976741e332f69c2fd00c751164,2405.12241,Identifying Functionally Important Features with End-to-End Sparse Dictionary Learning,2024.0,62,sae,False
+b244b80d0a2d36412b56c0156532d9cbeb298ffa,2408.00113,Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models,2024.0,59,sae,False
+be97409a865f72edc4828407496e9d31bbbc4ec7,2503.05613,A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models,2025.0,57,sae,False
+e59d6e9622d67772dee6a02e750bf37de9958717,,Sparse autoencoders uncover biologically interpretable features in protein language model representations,2025.0,47,sae,False
+d237326ef938edeb7d37f07d7348952472c4b568,2505.20063,SAEs Are Good for Steering - If You Select the Right Features,2025.0,47,sae,False
+efbe48e4c17a097f4feaec8cf9dec40218a27a87,2406.17759,Interpreting Attention Layer Outputs with Sparse Autoencoders,2024.0,46,sae,False
+74485409331b414368616c5acdcaced4f1b4506b,2410.14670,Decomposing The Dark Matter of Sparse Autoencoders,2024.0,43,sae,False
+fb7a513096d16774119eceb293352f34f15674af,2502.03714,Universal Sparse Autoencoders: Interpretable Cross-Model Concept Alignment,2025.0,42,sae,False
+90f879e665a8375b32361b0a18898558b790b6c2,2502.20578,Interpreting CLIP with Hierarchical Sparse Autoencoders,2025.0,38,sae,False
+f6f8d1c74219145ccdc0729c6c97a8b6d9d7712d,2503.18878,I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders,2025.0,35,sae,False
+fcdd61186f81c101922cc06839adee838e771a63,2506.03093,From Flat to Hierarchical: Extracting Sparse Representations with Matching Pursuit,2025.0,34,sae,False
+ccec08f900d70a52d38c2b910d81183e0de5d80d,2409.04478,Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small,2024.0,34,sae,False
+daa48c314524042a3ef4b251bac914e64eb5b74d,2410.03334,An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation,2024.0,27,sae,False
+7471d03a0a72a56b57326792763d9eb9539831d9,2501.06254,Rethinking Evaluation of Sparse Autoencoders through the Representation of Polysemous Words,2025.0,16,sae,False
+ccc354a9d5a4340d67e0c7a83153100b9362ca76,2505.20254,Position: Mechanistic Interpretability Should Prioritize Feature Consistency in SAEs,2025.0,15,sae,False
+c772bea87ba068039adc0d8e139dd314bc0d7851,2503.03601,Feature-Level Insights into Artificial Text Detection with Sparse Autoencoders,2025.0,14,sae,False
+39bbd489b43911152bdaf07f741a91bf1b15989d,2410.06981,Quantifying Feature Space Universality Across Large Language Models via Sparse Autoencoders,2024.0,14,sae,False
+eb73c035fc8b0ae4a115c6a436b83c0ecfc896aa,2506.15679,"Dense SAE Latents Are Features, Not Bugs",2025.0,13,sae,False
+a3361f8951d209a4a47782075a849239d8c83ded,2410.08869,Evolution of SAE Features Across Layers in LLMs,2024.0,12,sae,False
+cf8717082256ccf760e0b552a9d6550279f722be,2505.15038,Denoising Concept Vectors with Sparse Autoencoders for Improved Language Model Steering,2025.0,11,sae,False
+5af1703757a341a3be991e45ebcea6380787a3ea,2505.05111,Unveiling Language-Specific Features in Large Language Models via Sparse Autoencoders,2025.0,11,sae,False
+56ef7975633e552baa82cb3f11ceee96805cfe1a,2502.18147,"Jacobian Sparse Autoencoders: Sparsify Computations, Not Just Activations",2025.0,10,sae,False
+ccea3ec4d8bd55cf4a9114d3b9b1d0a0633b1921,2604.28119,Do Sparse Autoencoders Capture Concept Manifolds?,2026.0,9,sae,False
+15e3b61b7f69e9e751994f46c9bebdd7107c8189,2509.02565,Understanding sparse autoencoder scaling in the presence of feature manifolds,2025.0,9,sae,False
+67af8cf5cb2a986f168f40ec47cef67314f7e0dc,2506.15538,Capturing Polysemanticity with PRISM: A Multi-Concept Feature Description Framework,2025.0,9,sae,False
+ea935701fc581b6018308d06eea6f17b88a63432,2505.11756,Feature Hedging: Correlated Features Break Narrow Sparse Autoencoders,2025.0,9,sae,False
+25a186ac660dbee84c178984b43f5853995c2bee,,H-Space Sparse Autoencoders,,9,sae,False
+4c9e3db24264bc8dc3c8252bef9bd60495d603e4,2506.15963,On the Limits of Sparse Autoencoders: A Theoretical Framework and Reweighted Remedy,2025.0,8,sae,False
+339fb2acab7d469c2c0b24fd7523323d658f7b7a,2508.16560,Sparse but Wrong: Incorrect L0 Leads to Incorrect Features in Sparse Autoencoders,2025.0,7,sae,False
+3c27adfeb056525ae557fe2c9d5d8eb4a388da92,2507.23220,"Model Directions, Not Words: Mechanistic Topic Models Using Sparse Autoencoders",2025.0,7,sae,False
+fa965a002729ce91605d9b759724409b95ce983d,2511.05541,Temporal Sparse Autoencoders: Leveraging the Sequential Nature of Language for Interpretability,2025.0,7,sae,False
+f2853eaee66f7b5eb043a0246fbb52cf60468008,2510.00404,AbsTopK: Rethinking Sparse Autoencoders For Bidirectional Features,2025.0,7,sae,False
+f3ac16759e6cae637fec775a00741184df735224,2506.01197,Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures,2025.0,7,sae,False
+fb66116071367a0ebbc747c418dbb0d93d07dfc9,2502.19964,Do Sparse Autoencoders Generalize? A Case Study of Answerability,2025.0,7,sae,False
+0e69e31a30d6eceeb6d2a3774abca5b8762cfb36,2603.13277,Learning Retrieval Models with Sparse Autoencoders,2026.0,6,sae,False
+3fe454bbde2eb403888981e725c6c8b9ba1d28de,2505.16004,Evaluating Adversarial Robustness of Concept Representations in Sparse Autoencoders,2025.0,6,sae,False
+5b765db5e48a94f9e902dfed1847f132d5c3101b,2505.14536,Breaking Bad Tokens: Detoxification of LLMs Using Sparse Autoencoders,2025.0,6,sae,False
+d16ed171b95105fb47be9b69ec568e23205aca04,,Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models,2026.0,5,sae,False
+2e5d85d884573733c4c261c4be6c37eb3931d988,2603.19183,Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models,2026.0,5,sae,False
+72a6944cb29dd8c3c8d27273ffc3f12e9c1cb8f9,2601.05679,Do Sparse Autoencoders Identify Reasoning Features in Language Models?,2026.0,5,sae,False
+7eed0383a8ce4e1c48f48807a61e960d3c202473,2511.20820,SAGE: An Agentic Explainer Framework for Interpreting SAE Features in Language Models,2025.0,5,sae,False
+3fc20423096dbf4e78e9d6a7aab085354b59829b,2501.19406,Low-Rank Adapting Models for Sparse Autoencoders,2025.0,5,sae,False
+b236abffd459fd9d3f8a879c72b17ec8b71e7ca8,2603.09972,From Data Statistics to Feature Geometry: How Correlations Shape Superposition,2026.0,4,sae,False
+c460025362f974a2535e85640c949f466d75511c,2603.02952,Sparse autoencoders reveal organized biological knowledge but minimal regulatory logic in single-cell foundation models: a comparative atlas of Geneformer and scGPT,2026.0,4,sae,False
+fa3652f1069bf450dc5667bed6f4e6d4fb97f559,2512.13568,Superposition as Lossy Compression: Measure with Sparse Autoencoders and Connect to Adversarial Vulnerability,2025.0,4,sae,False
+ddaf93f7c3ef7f6d9c418687811910b4134aedc0,2602.05027,AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders,2026.0,4,sae,False
+3b184e1b692a11af7cf52931021daad6ab69d8d8,2509.22033,OrtSAE: Orthogonal Sparse Autoencoders Uncover Atomic Features,2025.0,4,sae,False
+d5f55bed31688be23cebf9407ebe0b5740253384,2508.12535,CorrSteer: Generation-Time LLM Steering via Correlated Sparse Autoencoder Features,2025.0,4,sae,False
+227cb08a0a5875ed49125a2ab2a22b50f0aef303,2512.24975,Attribution-Guided Distillation of Matryoshka Sparse Autoencoders,2025.0,4,sae,False
+2c6e921a6b993505e55a7933bf9b98eba5e4b993,2506.10920,Constructing Interpretable Features from Compositional Neuron Groups,2025.0,4,sae,False
+f8c74724977d04366ab8010328c8e096b1688389,2510.03659,Does higher interpretability imply better utility? A Pairwise Analysis on Sparse Autoencoders,2025.0,4,sae,False
+5d7156ce2c39b7aa36c52bac017c64611cf9ef62,2602.14111,Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?,2026.0,3,sae,True
+07e38fa4086bba630f715f043cfd6011b543ce20,2602.14687,SynthSAEBench: Evaluating Sparse Autoencoders on Scalable Realistic Synthetic Data,2026.0,3,sae,False
+945c433c6a3241874883b40a9cb2a0fe07721367,2602.11881,From Atoms to Trees: Building a Structured Feature Forest with Hierarchical Sparse Autoencoders,2026.0,3,sae,False
+11a4c3f6391fa9404fd20761ac7bda2df24b6611,2602.01322,PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding,2026.0,3,sae,False
+cf40a5372de634ea0067b2cb17a4b798b7211664,2512.10805,Interpretable and Steerable Concept Bottleneck Sparse Autoencoders,2025.0,3,sae,False
+fffa373c781add1943263d9648ff34f147d7e7bd,2511.06048,Visual Exploration of Feature Relationships in Sparse Autoencoders with Curated Concepts,2025.0,3,sae,False
+6660f2b094a14eedc5b340269e8b3ac3a311839b,2508.16929,Dimensional Collapse in Transformer Attention Outputs: A Challenge for Sparse Dictionary Learning,2025.0,3,sae,False
+7a87abff98c3cda231f3fc5d1c5baeb688b8d019,2508.08211,SAEMark: Steering Personalized Multilingual LLM Watermarks with Sparse Autoencoders,2025.0,3,sae,False
+d03d86e22a04ec07207bba4d809fe7d7ed7bb745,2507.15227,Mammo-SAE: Interpreting Breast Cancer Concept Learning with Sparse Autoencoders,2025.0,3,sae,False
+de869e0d7692e411db48922ceb3054caaca14bd0,2509.25596,Binary Sparse Coding for Interpretability,2025.0,3,sae,False
+c810f51b63affb04b753e61291d8f763aca714a0,2603.04198,Stable and Steerable Sparse Autoencoders with Weight Regularization,2026.0,2,sae,False
+00bbf49ad492f4d319cbeff4f908dc8ef67bfc95,2603.03031,Step-Level Sparse Autoencoder for Reasoning Process Interpretation,2026.0,2,sae,False
+9ced65b8d8a3c25d2342a570150e3bc1110ec2f7,2602.04718,Identifying Intervenable and Interpretable Features via Orthogonality Regularization,2026.0,2,sae,False
+3e7ba18ac102e7e9e4a161374dcb709df2dc9104,2603.25325,How Pruning Reshapes Features: Sparse Autoencoder Analysis of Weight-Pruned Language Models,2026.0,2,sae,False
+af98bf5a5a1db4e4e7e99ba51d860e11de0b25ca,2509.17665,"Mechanistic Interpretability with SAEs: Probing Religion, Violence, and Geography in Large Language Models",2025.0,2,sae,False
+70be79af59c8cb3e2c8c4f4f78cbb9a9fe640e1d,2509.00691,CE-Bench: Towards a Reliable Contrastive Evaluation Benchmark of Interpretability of Sparse Autoencoders,2025.0,2,sae,False
+a8c2f4246a909510d7ea182e77ec7834a5884186,2508.09363,Resurrecting the Salmon: Rethinking Mechanistic Interpretability with Domain-Specific Sparse Autoencoders,2025.0,2,sae,False
+e2073a10ce15306b55817b8826d3b503c47bcedf,2507.16069,Interpreting CFD Surrogates through Sparse Autoencoders,2025.0,2,sae,False
+a4eb81633ddae55da9f86c5dc0d613904392b4b4,2507.14894,Sparse Autoencoder-guided Supervised Finetuning to Mitigate Unexpected Code-Switching in LLMs,2025.0,2,sae,False
+d400508bbba6140b260761024ac63180499f9582,2507.12950,Insights into a radiology-specialised multimodal large language model with sparse autoencoders,2025.0,2,sae,False
+b0acc8ded9db6424ae27c14834b3846386028a49,2507.08473,Evaluating SAE interpretability without explanations,2025.0,2,sae,False
+1bcf3f8184fddd434ec84fba0389faa3f358cb60,2505.16077,Ensembling Sparse Autoencoders,2025.0,2,sae,False
+538ab67d5bfb28dfada2057d7141c4c8edfa4108,2505.10375,Are Sparse Autoencoders Useful for Java Function Bug Detection?,2025.0,2,sae,False
+9647c6210555127f733efb34357a8d985a9d438b,2603.00824,A Gauge Theory of Superposition: Toward a Sheaf-Theoretic Atlas of Neural Representations,2026.0,2,sae,False
+73646d4a5bed7cb8f335bff1d07e195ac9ba8ea4,2511.13981,Data Whitening Improves Sparse Autoencoder Learning,2025.0,2,sae,False
+6b186dbaa7c7f8740ea1f3192aff45483b79a7f8,2506.17673,FaithfulSAE: Towards Capturing Faithful Features with Sparse Autoencoders without External Dataset Dependencies,2025.0,2,sae,False
+d3779f55663c96087c916c89e1065f908cb41afe,2505.24473,Train One Sparse Autoencoder Across Multiple Sparsity Budgets to Preserve Interpretability and Accuracy,2025.0,2,sae,False
+a74d40980c0a58cde340bfcd125f40d3ca9bb907,,Compositional and interpretable representation of histology using AI foundation models and sparse autoencoders,2026.0,1,sae,False
+8cccd6cf1eb1ad18fc888b227b47a98350edfa5c,2606.07473,Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders,2026.0,1,sae,False
+1ac4a4ed715d7c2ad7dddcde64a7867b4b86eba6,2605.23035,Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography,2026.0,1,sae,False
+68383f2b0e95d305b5b90c4a2010c8d984232611,2605.18629,Aligned Training: A Parameter-Free Method to Improve Feature Quality and Stability of Sparse Autoencoders (SAE),2026.0,1,sae,False
+734e654ccd5229916b97ffae7f7c885bad4140f0,2605.18229,Are Sparse Autoencoder Benchmarks Reliable?,2026.0,1,sae,False
+e9183543dbd7c8ea4049a2729e0424e81a54e0fb,2605.12225,Mechanistic Interpretability of ASR models using Sparse Autoencoders,2026.0,1,sae,False
+85218deed6f3fca47440fab4ddeb948c30636790,2605.12122,Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning,2026.0,1,sae,False
+269eeacacfc4b2fc458d6a91bd5b825ca29481ae,2605.01829,GeoSAE: Geometric Prior-Guided Layer-Wise Sparse Autoencoder Annotation of Brain MRI Foundation Models,2026.0,1,sae,False
+2d4b8da9230d184ecaac42c6e6a2dc32a86cfaf6,2604.14925,Improving Sparse Autoencoder with Dynamic Attention,2026.0,1,sae,False
+66c8693e3bf331f4c8011b8e159334a2fbd824e7,2604.06495,Improving Robustness In Sparse Autoencoders via Masked Regularization,2026.0,1,sae,False
+eac5affbadebea7d58f0345559da5a75429401ec,2603.16335,"Behavioral Steering in a 35B MoE Language Model via SAE-Decoded Probe Vectors: One Agency Axis, Not Five Traits",2026.0,1,sae,False
+e64ce2a17674441490216c1227dce0de5fc32f57,2512.07730,SAVE: Sparse Autoencoder-Driven Visual Information Enhancement for Mitigating Object Hallucination,2025.0,1,sae,False
+039287d7cb15dac238786cbcdf9c4b10974c5d93,,What Do Biological Foundation Models Compute? Sparse Autoencoders from Feature Recovery to Mechanistic Interpretability,2026.0,1,sae,False
+6291d94552155222cd96f3e121356c74dc9ab2b5,2602.10437,Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features,2026.0,1,sae,False
+a7bfe68f2e26d481905c4449ff1bd5a8e0c704fd,2512.08077,Unveiling Latent Knowledge in Chemistry Language Models through Sparse Autoencoders,2025.0,1,sae,False
+b9eb4195f659b5882de773a938a66bb47d97955b,2511.00177,Can SAEs reveal and mitigate racial biases of LLMs in healthcare?,2025.0,1,sae,False
+293139515d9b85edb92b9e7cdcefdf63652bad54,2510.02917,Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders,2025.0,1,sae,False
+354142661538011261d83f1a12c970d792aee3b4,2509.23717,Measuring Sparse Autoencoder Feature Sensitivity,2025.0,1,sae,False
+c6652d7ae7ad517ff2282e26df6034dc0e10a30e,2512.05534,A Unified Theory of Sparse Dictionary Learning in Mechanistic Interpretability: Piecewise Biconvexity and Spurious Minima,2025.0,1,sae,False
+e106efac9989c652457097d63339d7f53f488b23,2512.05794,Mechanistic Interpretability of Antibody Language Models Using SAEs,2025.0,1,sae,False
+476b8b15863c9497570b264e85ba71be03bf041b,2511.17735,Towards Open-Ended Visual Scientific Discovery with Sparse Autoencoders,2025.0,1,sae,False
+c89bf8b8c0b1f1bfc1dbb44c73f4c9d429ba8e83,2510.08855,Time-Aware Feature Selection: Adaptive Temporal Masking for Stable Sparse Autoencoder Training,2025.0,1,sae,False
+cb38251051504d489d64232ba11f5b8dae547424,2510.03186,Superposition disentanglement of neural representations reveals hidden alignment,2025.0,1,sae,False
+67c70168b08dad4e76122c1aaa09ca8aff431304,2505.22255,Kronecker Factorization Improves Efficiency and Interpretability of Sparse Autoencoders,2025.0,1,sae,False
+e0eda70460e3d108dbf4d46ac05433c529f05057,2605.00842,Understanding Emergent Misalignment via Feature Superposition Geometry,2026.0,1,sae,False
+9f3842cb553a6c41b74f0ba48c27172defb3e16e,2603.10071,Dissecting Chronos: Sparse Autoencoders Reveal Causal Feature Hierarchies in Time Series Foundation Models,2026.0,1,sae,False
+21822190c5e8fa26facf4a415f1eacd88c8452d3,2509.00928,Superposition in Graph Neural Networks,2025.0,1,sae,False
+915ee638f70dd259af24c9cbb9d257e9df45e482,,Revising and Falsifying Sparse Autoencoder Feature Explanations,,1,sae,False
+a09bee8c540dc70bfc7d3f77bae27519eeb37a4f,2606.12138,"Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders",2026.0,0,sae,True
+5752b7946cd25eea6a5e94847bf5d734346f9855,2606.16193,Cascaded Sparse Autoencoders Learn Multi-Level Visual Concepts in Multimodal LLMs,2026.0,0,sae,False
+3ce8980307b47c7a9592ff8376a2c78cd58d5953,2606.15054,Size Doesn't Matter: Cosine-Scored Sparse Autoencoders,2026.0,0,sae,False
+5853d3f4d9bca43d6baf8d73b5d10bea17087a41,2606.14990,Rational Sparse Autoencoder,2026.0,0,sae,False
+2dce0c20bed9e3aea4f23eb45a1560da59c1e205,2606.10029,Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders,2026.0,0,sae,False
+02e080cc26621911ffc771a07e93fad9f7cca653,2606.10080,VFUSE: Virulent Feature Understanding with Sparse autoEncoders,2026.0,0,sae,False
+dc00cec87725bb65927f0b569c4fd02229144369,2606.08496,SAEExplainer: Interpreting SAE Features with Activation-Guided Preference Optimization,2026.0,0,sae,False
+062804ef8519e41c6ad93d3246417e5ccc7d8aa4,2606.08267,Post-AGI Economies: Superposition and the Second Fundamental Theorem of Welfare Economics,2026.0,0,sae,False
+d3a58153d81087dfc4e61b0fed197270e6b738a7,2606.08365,Pre-Intervention Prediction of Sparse Autoencoder Steering Side Effects,2026.0,0,sae,False
+250dbcb43628b3d50599e222dc9cf6b90b6bd1ab,2606.07007,A Geometric View for Understanding Concept Learning and Neuron Interpretation in Sparse Autoencoders,2026.0,0,sae,False
+7b1fd8dc3e94a204caeb5f996e664f937ef1633d,2606.07451,TEVI: Text-Conditioned Editing of Visual Representations via Sparse Autoencoders for Improved Vision-Language Alignment,2026.0,0,sae,False
+738462d3080275c47cad471c92bf83d5b577620d,2606.02385,How Optimality Structures Sparse Dictionaries: A Theory for Understanding SAE Representations,2026.0,0,sae,False
+062cdc5b6a7f043764e261b5c6edcb8f72c4884a,,Low-rank sparse autoencoders: Unifying efficiency and geometric regularization for large language model interpretability,2026.0,0,sae,False
+940cbc1d38bf25caca82fe999d0b8e88d78949f0,2605.31183,"Steering LLMs? Actually, Sparse Autoencoders can outperform simple baselines",2026.0,0,sae,False
+1bc5241a4097f0c83cdf9909004ad040e3e343b1,2605.31245,Toward Identifiable Sparse Autoencoders,2026.0,0,sae,False
+5018c31c084a2f37a74e353b55df8a70999dfdf7,2605.31518,On the Relationship Between Activation Outliers and Feature Death in Sparse Autoencoders,2026.0,0,sae,False
+7b89a478fc4cfe6fed02d53110a619a86add8193,2605.31304,Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance,2026.0,0,sae,False
+9c868ba2557e97b5dfb4ea3b8e4ecc0a6ece778a,2605.30162,BioRefusalAudit: Auditing Biosecurity Refusal Depth Using General and Domain-Fine-Tuned Sparse Autoencoders,2026.0,0,sae,False
+62c17e871b993604e19212ab4f206e5e631548dd,2605.27819,ReSAE: Residualized Sparse Autoencoders for Multi-Layer Transformer Interventions,2026.0,0,sae,False
+7fa1535f590877ec2e3352ee0d0ea10aa2e4e84f,2605.28247,IRDS: Interpretable RLVR Data Selection via Verifier-Coupled Sparse Autoencoder Coverage,2026.0,0,sae,False
+34371d7edcaae6569cb3d69555225d0425cf8aa8,2605.28149,Sign-Aware Gated Sparse Autoencoders: Modeling Anticorrelated Features with Bi-Jump-ReLU Activations,2026.0,0,sae,False
+c2191a99aff0db5a840413c8e055fed7274ef302,2605.28896,Feature Geometry of LoRA Adapters: A Sparse Autoencoder Analysis of Representational Divergence in Fine-Tuned Language Models,2026.0,0,sae,False
+b24a3cf5b4190e6b67c117a196bfeedcc19a13f8,2605.25525,SAE-FD: Sparse Autoencoder Feature Distillation for Continual Learning of Large Language Models,2026.0,0,sae,False
+6b2de6290d24168276a51299593e3b29943b0686,2605.24946,Interpretability Transfer from Language to Vision via Sparse Autoencoders,2026.0,0,sae,False
+189189d5c99001592514e662de7e2412f7763a33,2605.24977,"Universal Boosts, Specific Suppressors: Sparse Autoencoder Steering of Medical Vision-Language Models",2026.0,0,sae,False
+c5cb245a7635a39ae87b24550d63f2642b4cc895,2605.23036,Multilingual Steering by Design: Multilingual Sparse Autoencoders and Principled Layer Selection,2026.0,0,sae,False
+b5dbbbcfe7be02b8791da6091fb9f693073d7fb4,2605.18537,Probing for Representation Manifolds in Superposition,2026.0,0,sae,False
+1b1a40c218d97bb68f8ebea2ad7f5ca52f1347c4,2605.17204,Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies,2026.0,0,sae,False
+0f3c095f6f90668df0e3f7eaf3c12fb9b9bb60ca,2605.17493,Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE,2026.0,0,sae,False
+97b1d61ea1050e633f017484faad12ea1bbed1a0,2605.15961,Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models,2026.0,0,sae,False
+4a973ca1dd2d6838d0d459f8eb5b86827323215e,2605.14694,The Rate-Distortion-Polysemanticity Tradeoff in SAEs,2026.0,0,sae,False
+e6f1c4c507e2def3d7091c7aa0c7dcdf339ce223,2605.12874,Descriptive Collision in Sparse Autoencoder Auto-Interpretability: When One Explanation Describes Many Features,2026.0,0,sae,False
+a7c6fe6e5b8be211dee5647e5c1c3bdc7b1d32fa,2605.13930,Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders,2026.0,0,sae,False
+558c3e840097bc76a3b5ea2101c4f7916d0c9e45,2605.12770,WriteSAE: Sparse Autoencoders for Recurrent State,2026.0,0,sae,False
+471b888193cb7396afef8e1a99f269ce5c49baa7,2605.18820,"Emergence of Frontier Superposition: M\""obius attractor and Cascade Supervision",2026.0,0,sae,False
+9384e90ef262efc9dc2873e32966d5390a562b8a,2605.09887,The Geometric Wall: Manifold Structure Predicts Layerwise Sparse Autoencoder Scaling Laws,2026.0,0,sae,False
+eed43d8ff77508e3c20b8f885830615f12e4a4e0,2605.18808,"Compositional Literary Primitives in Instruction-Tuned LLMs: Cross-Architectural SAE Features for Self, Style, and Affect",2026.0,0,sae,False
+f1ec5dd869e672bfe1b1d52be24b119acfbff3a5,2605.07922,Tree SAE: Learning Hierarchical Feature Structures in Sparse Autoencoders,2026.0,0,sae,False
+581ec45f41f6d18a676d69717a988956d2deceeb,2605.06610,SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders,2026.0,0,sae,False
+f59a278ec86f51c963e5c6a98b848143f6b35087,2605.16339,Preference Instability in Reward Models: Detection and Mitigation via Sparse Autoencoders,2026.0,0,sae,False
+8f919302a5a29f68e1abebbe6cf30de1c89c080e,2605.05341,Feature Starvation as Geometric Instability in Sparse Autoencoders,2026.0,0,sae,False
+a00483c99f37485ff074c59bf08320dc5e565587,2605.03160,Pairwise matrices for sparse autoencoders: single-feature inspection mislabels causal axes,2026.0,0,sae,False
+24717ab63c3c92f46fd2e532c5a773f7397ab178,2605.08149,Feature Rivalry in Sparse Autoencoder Representations: A Mechanistic Study of Uncertainty-Driven Feature Competition in LLMs,2026.0,0,sae,False
+dd12b94e0ea8f777bf243a8245dd9dff4ce266f2,2605.01192,Linear-Readout Floors and Threshold Recovery in Computation in Superposition,2026.0,0,sae,False
+8e9b14a3e6bbc09333bf11a66d96a32984b37399,2606.06333,Subspace-Aware Sparse Autoencoders for Effective Mechanistic Interpretability,2026.0,0,sae,False
+55ccc9ba84f49b450273efdb3f2d9283b4d1693f,2606.01479,Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech,2026.0,0,sae,False
+6433a2f27c64c263505d9137a9ae9bbff9545cce,2605.27813,Residualized Temporal Sparse Autoencoders for Interpreting Diffusion Models,2026.0,0,sae,False
+c6f2cf2d10280a4b3a0b4332497cf75bb231b7a2,2605.06494,From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features,2026.0,0,sae,False
+836482d1711a61c37858cce75f996a5ba0849c9f,2604.23829,Domain-Filtered Knowledge Graphs from Sparse Autoencoder Features,2026.0,0,sae,False
+30db90005d77dfc7577bf28f8d3812a74fe66d7b,2604.18756,Towards Understanding the Robustness of Sparse Autoencoders,2026.0,0,sae,False
+925a197fd2b410bb12ccc570317b9feb9c915f71,2605.04072,"Sparse Autoencoder Decomposition of Clinical Sequence Model Representations: Feature Complexity, Task Specialisation, and Mortality Prediction",2026.0,0,sae,False
+997d07e8e3eeb92dbdb9e8bd8f710454f3f00ff4,2604.05724,Beyond Semantics: Disentangling Information Scope in Sparse Autoencoders for CLIP,2026.0,0,sae,False
+532802e16afe781a6b30823111f0e8a225578ce6,2604.16430,HalluSAE: Detecting Hallucinations in Large Language Models via Sparse Auto-Encoders,2026.0,0,sae,False
+034f810e1a2021823515cfffee2527caf6cde916,2604.02871,SPG: Sparse-Projected Guides with Sparse Autoencoders for Zero-Shot Anomaly Detection,2026.0,0,sae,False
+9020a703cd80534026267e147239042bec627d6b,2604.03436,MetaSAEs: Joint Training with a Decomposability Penalty Produces More Atomic Sparse Autoencoder Latents,2026.0,0,sae,False
+8be6eea316bcdecd7a140ece55f328ea84dc8502,2604.04946,Sparse Autoencoders as a Steering Basis for Phase Synchronization in Graph-Based CFD Surrogates,2026.0,0,sae,False
+870f0725974ddbd041e8cd4bb6e5e9b189926ddf,2603.18359,Towards Interpretable Framework for Neural Audio Codecs via Sparse Autoencoders: A Case Study on Accent Information,2026.0,0,sae,False
+b399474cd54b2fac9dfce5ada9dcb20a33e0b1c3,2603.02908,SAE as a Crystal Ball: Interpretable Features Predict Cross-domain Transferability of LLMs without Training,2026.0,0,sae,False
+17fcbc196080b09729e02c9fc32375a569752a7a,2602.12418,Sparse Autoencoders are Capable LLM Jailbreak Mitigators,2026.0,0,sae,False
+473ada8ead48f01f0cdb9ffe3c81cf70cd9a87ba,2602.01045,Superposition unifies power-law training dynamics,2026.0,0,sae,False
+8522abd2e8f7487bb88881be5b00dd8570b5cdfa,2601.22447,Beyond Activation Patterns: A Weight-Based Out-of-Context Explanation of Sparse Autoencoder Features,2026.0,0,sae,False
+78373e65a13837de405c49f0671a6707278f90d5,2601.20028,Decomposing multimodal embedding spaces with group-sparse autoencoders,2026.0,0,sae,False
+845e5fbc9c6c8e0d997ea12930ba42e4a6dd7da3,2512.15938,SALVE: Sparse Autoencoder-Latent Vector Editing for Mechanistic Control of Neural Networks,2025.0,0,sae,False
+a83e67e5eb1dddfd01077ca996a879095d6dc25e,,Patch-level phenotype identification via weakly supervised neuron selection in sparse autoencoders for CLIP-derived pathology embeddings.,2025.0,0,sae,False
+7e608a471ffd5143a0cfe05607b6b8f1dfaf1e83,2512.11263,Features Emerge as Discrete States: The First Application of SAEs to 3D Representations,2025.0,0,sae,False
+0fcc157e8aeb5e78aac6691a1d97f6a382036992,2512.10547,Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders,2025.0,0,sae,False
+8a61d43e49e5f851d1d1014d2c34f6eaa476e6bd,2605.28649,"Interpretability-Guided Layer Selection over Subspace Projection: SAEs as Stethoscopes, Not Scalpels, for Raw Task Vector Model Editing",2026.0,0,sae,False
+9a704549b080ee952185524b766469daed0999b2,2604.26866,MoRFI: Monotonic Sparse Autoencoder Feature Identification,2026.0,0,sae,False
+8912608496a68650ac36f5660584a5c0ed66b8ba,2604.18179,Committed SAE-Feature Traces for Audited-Session Substitution Detection in Hosted LLMs,2026.0,0,sae,False
+4f2a3156d886a3d041bbfe67d7097553d0c98cd4,2602.19115,How Do LLMs Encode Scientific Quality? An Empirical Study Using Monosemantic Features from Sparse Autoencoders,2026.0,0,sae,False
+5319fc4c32e89759f67caa6c4653d0c061e73926,2601.02978,Mechanistic Knobs in LLMs: Retrieving and Steering High-Order Semantic Features via Sparse Autoencoders,2026.0,0,sae,False
+008c2654150de477499f78217a1cf2a5db154590,2509.03738,Mechanistic Interpretability with Sparse Autoencoder Neural Operators,2025.0,0,sae,False
+01db059c28246277f636b0e283a20d73f04750f9,2508.15094,Evaluating Sparse Autoencoders for Monosemantic Representation,2025.0,0,sae,False
+b4c5cac169477239a8a26cec9484e94e66114c68,2508.14275,Disentangling concept semantics via multilingual averaging in Sparse Autoencoders,2025.0,0,sae,False
+89dd0143570bf3b4e1be8432b62f31047b7dc6a3,2507.18918,Uncovering Cross-Linguistic Disparities in LLMs using Sparse Autoencoders,2025.0,0,sae,False
+fff96942a96eb4c287d603c34660f796fe27aea5,,Application of Sparse Autoencoders to Enhance Mechanistic Interpretability of Large Language Models in Medicine,2025.0,0,sae,False
+92a728ab88c83c78b4e68a14fa9b6853119aea26,2511.07572,SCALAR: Benchmarking SAE Interaction Sparsity in Toy LLMs,2025.0,0,sae,False
+a606eda7f959a3a3506df6ed51d09269105ffbb9,2510.23749,Re-envisioning Euclid Galaxy Morphology: Identifying and Interpreting Features with Sparse Autoencoders,2025.0,0,sae,False
+6eed873b88ecd54e69f597c395f31edf3e5b035f,2506.01247,"Beyond Interpretability: When, Why, and How Sparse Autoencoders Enable Label-Free Visual Steering",2025.0,0,sae,False
+9190b18d10b6999071d44ff185256ce4337ad69e,2605.27354,Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders,2026.0,0,sae,False
+2f61d83bdb78c821f9e54b27976aee379722cd78,,Sparse autoencoders reveal interpretable cell-type programs in single-cell foundation model representations,2026.0,0,sae,False

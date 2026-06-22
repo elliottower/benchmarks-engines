@@ -1,0 +1,62 @@
+source_arxiv,source_label,source_community,target_arxiv,target_label,target_community
+2309.08600,Cunningham+2023 dict-learning,sae,2304.14997,Conmy+2023 ACDC,circuits
+2309.08600,Cunningham+2023 dict-learning,sae,2211.00593,Wang+2022 IOI,circuits
+2309.08600,Cunningham+2023 dict-learning,sae,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2406.04093,Templeton+2024 scaling-monosemanticity,sae,2403.19647,Henighan+2024 features-circuits,circuits
+2406.04093,Templeton+2024 scaling-monosemanticity,sae,2309.08600,Cunningham+2023 dict-learning,sae
+2408.05147,Karvonen+2025 SAEBench,sae,2406.04093,Templeton+2024 scaling-monosemanticity,sae
+2408.05147,Karvonen+2025 SAEBench,sae,2403.19647,Henighan+2024 features-circuits,circuits
+2408.05147,Karvonen+2025 SAEBench,sae,2401.12181,Lindsey+2024 circuits-components,circuits
+2408.05147,Karvonen+2025 SAEBench,sae,2310.15213,Marks+2023 sparse-feature-circuits,circuits
+2408.05147,Karvonen+2025 SAEBench,sae,2309.08600,Cunningham+2023 dict-learning,sae
+2408.05147,Karvonen+2025 SAEBench,sae,2304.14997,Conmy+2023 ACDC,circuits
+2408.05147,Karvonen+2025 SAEBench,sae,2211.00593,Wang+2022 IOI,circuits
+2408.05147,Karvonen+2025 SAEBench,sae,2209.11895,Elhage+2022 superposition,circuits
+2409.14507,Chanin+2024 absorption,sae,2408.05147,Karvonen+2025 SAEBench,sae
+2409.14507,Chanin+2024 absorption,sae,2406.04093,Templeton+2024 scaling-monosemanticity,sae
+2409.14507,Chanin+2024 absorption,sae,2403.19647,Henighan+2024 features-circuits,circuits
+2409.14507,Chanin+2024 absorption,sae,2309.08600,Cunningham+2023 dict-learning,sae
+2606.12138,Paulo+Belrose+2026 seed-instability,sae,2309.08600,Cunningham+2023 dict-learning,sae
+2602.14111,Sanity-checks+2026,sae,2408.05147,Karvonen+2025 SAEBench,sae
+2602.14111,Sanity-checks+2026,sae,2406.04093,Templeton+2024 scaling-monosemanticity,sae
+2602.14111,Sanity-checks+2026,sae,2309.08600,Cunningham+2023 dict-learning,sae
+2602.14111,Sanity-checks+2026,sae,2211.00593,Wang+2022 IOI,circuits
+2301.04709,Geiger+2023 DAS,causal,2309.08600,Cunningham+2023 dict-learning,sae
+2301.04709,Geiger+2023 DAS,causal,2305.08809,Wu+2023 boundless-DAS,causal
+2301.04709,Geiger+2023 DAS,causal,2304.14997,Conmy+2023 ACDC,circuits
+2301.04709,Geiger+2023 DAS,causal,2211.00593,Wang+2022 IOI,circuits
+2301.04709,Geiger+2023 DAS,causal,2209.11895,Elhage+2022 superposition,circuits
+2301.04709,Geiger+2023 DAS,causal,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2305.08809,Wu+2023 boundless-DAS,causal,2301.04709,Geiger+2023 DAS,causal
+2305.08809,Wu+2023 boundless-DAS,causal,2211.00593,Wang+2022 IOI,circuits
+2305.08809,Wu+2023 boundless-DAS,causal,2209.11895,Elhage+2022 superposition,circuits
+2305.08809,Wu+2023 boundless-DAS,causal,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2507.08802,Sutter+2025 nonlinear-dilemma,causal,2309.08600,Cunningham+2023 dict-learning,sae
+2507.08802,Sutter+2025 nonlinear-dilemma,causal,2301.04709,Geiger+2023 DAS,causal
+2507.08802,Sutter+2025 nonlinear-dilemma,causal,2211.00593,Wang+2022 IOI,circuits
+2507.08802,Sutter+2025 nonlinear-dilemma,causal,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2211.00593,Wang+2022 IOI,circuits,2209.11895,Elhage+2022 superposition,circuits
+2211.00593,Wang+2022 IOI,circuits,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2304.14997,Conmy+2023 ACDC,circuits,2305.08809,Wu+2023 boundless-DAS,causal
+2304.14997,Conmy+2023 ACDC,circuits,2211.00593,Wang+2022 IOI,circuits
+2304.14997,Conmy+2023 ACDC,circuits,2209.11895,Elhage+2022 superposition,circuits
+2304.14997,Conmy+2023 ACDC,circuits,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2403.19647,Henighan+2024 features-circuits,circuits,2406.04093,Templeton+2024 scaling-monosemanticity,sae
+2403.19647,Henighan+2024 features-circuits,circuits,2310.15213,Marks+2023 sparse-feature-circuits,circuits
+2403.19647,Henighan+2024 features-circuits,circuits,2309.08600,Cunningham+2023 dict-learning,sae
+2403.19647,Henighan+2024 features-circuits,circuits,2304.14997,Conmy+2023 ACDC,circuits
+2403.19647,Henighan+2024 features-circuits,circuits,2211.00593,Wang+2022 IOI,circuits
+2403.19647,Henighan+2024 features-circuits,circuits,2209.11895,Elhage+2022 superposition,circuits
+2403.19647,Henighan+2024 features-circuits,circuits,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2310.15213,Marks+2023 sparse-feature-circuits,circuits,2211.00593,Wang+2022 IOI,circuits
+2510.00845,Varianova+2025 EAP-IG-variance,circuits,2304.14997,Conmy+2023 ACDC,circuits
+2510.00845,Varianova+2025 EAP-IG-variance,circuits,2211.00593,Wang+2022 IOI,circuits
+2510.00845,Varianova+2025 EAP-IG-variance,circuits,2106.02997,Geiger+2021 causal-abstraction-NNs,causal
+2401.12181,Lindsey+2024 circuits-components,circuits,2310.15213,Marks+2023 sparse-feature-circuits,circuits
+2401.12181,Lindsey+2024 circuits-components,circuits,2309.08600,Cunningham+2023 dict-learning,sae
+2401.12181,Lindsey+2024 circuits-components,circuits,2309.04827,Lieberum+2023 indirect-effect,circuits
+2401.12181,Lindsey+2024 circuits-components,circuits,2304.14997,Conmy+2023 ACDC,circuits
+2401.12181,Lindsey+2024 circuits-components,circuits,2211.00593,Wang+2022 IOI,circuits
+2401.12181,Lindsey+2024 circuits-components,circuits,2209.11895,Elhage+2022 superposition,circuits
+2309.04827,Lieberum+2023 indirect-effect,circuits,2401.12181,Lindsey+2024 circuits-components,circuits
+2309.04827,Lieberum+2023 indirect-effect,circuits,2211.00593,Wang+2022 IOI,circuits

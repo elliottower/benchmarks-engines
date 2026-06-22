@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "date": "2026-06-21",
+    "n_papers": 9,
+    "n_edges": 9
+  },
+  "citation_matrix": {
+    "SAE": {
+      "SAE": 2,
+      "Causal": 2,
+      "Circuits": 0
+    },
+    "Causal": {
+      "SAE": 0,
+      "Causal": 1,
+      "Circuits": 0
+    },
+    "Circuits": {
+      "SAE": 1,
+      "Causal": 2,
+      "Circuits": 1
+    }
+  },
+  "metrics": {
+    "total_edges": 9,
+    "within": 4,
+    "between": 5,
+    "sae_causal_cross": 2,
+    "sae_n": 5,
+    "causal_n": 2,
+    "circuits_n": 2
+  },
+  "edges": [
+    {
+      "from": "Cunningham+23",
+      "from_community": "SAE",
+      "to": "Geiger+21 causal abs",
+      "to_community": "Causal"
+    },
+    {
+      "from": "Bricken+23",
+      "from_community": "SAE",
+      "to": "Cunningham+23",
+      "to_community": "SAE"
+    },
+    {
+      "from": "Bricken+23",
+      "from_community": "SAE",
+      "to": "Geiger+21 causal abs",
+      "to_community": "Causal"
+    },
+    {
+      "from": "Chanin+24 absorption",
+      "from_community": "SAE",
+      "to": "Cunningham+23",
+      "to_community": "SAE"
+    },
+    {
+      "from": "Wu+24 alpaca",
+      "from_community": "Causal",
+      "to": "Geiger+21 causal abs",
+      "to_community": "Causal"
+    },
+    {
+      "from": "Hanna+23 greater-than",
+      "from_community": "Circuits",
+      "to": "Geiger+21 causal abs",
+      "to_community": "Causal"
+    },
+    {
+      "from": "Gould+24 successor",
+      "from_community": "Circuits",
+      "to": "Cunningham+23",
+      "to_community": "SAE"
+    },
+    {
+      "from": "Gould+24 successor",
+      "from_community": "Circuits",
+      "to": "Wu+24 alpaca",
+      "to_community": "Causal"
+    },
+    {
+      "from": "Gould+24 successor",
+      "from_community": "Circuits",
+      "to": "Hanna+23 greater-than",
+      "to_community": "Circuits"
+    }
+  ],
+  "papers": {
+    "edb548fe7574d99454b352ffdb61bca93c3072ba": {
+      "label": "Cunningham+23",
+      "community": "SAE",
+      "title": "Sparse Autoencoders Find Highly Interpretable Features in Language Models",
+      "year": 2023,
+      "venue": "International Conference on Learning Representations",
+      "citation_count": 1276
+    },
+    "9f20b0aa426c18512e820d1c1311378f71114d8a": {
+      "label": "Bricken+23",
+      "community": "SAE",
+      "title": "Codebook Features: Sparse and Discrete Interpretability for Neural Networks",
+      "year": 2023,
+      "venue": "International Conference on Machine Learning",
+      "citation_count": 44
+    },
+    "90f50c33f687622b00b260fd178c83ecf084291b": {
+      "label": "Karvonen+25 SAEBench",
+      "community": "SAE",
+      "title": "AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction",
+      "year": 2025,
+      "venue": "IEEE International Conference on Computer Vision",
+      "citation_count": 8
+    },
+    "eb8fbed577ac4d48b24c8143d92d3cb1b5a8a291": {
+      "label": "Engels+24 dark matter",
+      "community": "SAE",
+      "title": "Detecting Dark Patterns in User Interfaces Using Logistic Regression and Bag-of-",
+      "year": 2024,
+      "venue": "arXiv.org",
+      "citation_count": 1
+    },
+    "8cbc7c757766697a56e7cf881605b8e414ab2fdc": {
+      "label": "Chanin+24 absorption",
+      "community": "SAE",
+      "title": "A is for Absorption: Studying Feature Splitting and Absorption in Sparse Autoenc",
+      "year": 2024,
+      "venue": "arXiv.org",
+      "citation_count": 121
+    },
+    "5951ede73a1dbb9c5ea8b4d95f31c5ed646aacbd": {
+      "label": "Geiger+21 causal abs",
+      "community": "Causal",
+      "title": "Causal Abstractions of Neural Networks",
+      "year": 2021,
+      "venue": "Neural Information Processing Systems",
+      "citation_count": 407
+    },
+    "3f7fa58806614a1f38ae760c25c1305e3a87d4ce": {
+      "label": "Wu+24 alpaca",
+      "community": "Causal",
+      "title": "Interpretability at Scale: Identifying Causal Mechanisms in Alpaca",
+      "year": 2023,
+      "venue": "Neural Information Processing Systems",
+      "citation_count": 125
+    },
+    "aec826ff336ca442697d5f908ab1668f1ea18987": {
+      "label": "Hanna+23 greater-than",
+      "community": "Circuits",
+      "title": "How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a p",
+      "year": 2023,
+      "venue": "Neural Information Processing Systems",
+      "citation_count": 225
+    },
+    "07c2c3b4af7e4ff1577f36f47f1c93398a6df648": {
+      "label": "Gould+24 successor",
+      "community": "Circuits",
+      "title": "Successor Heads: Recurring, Interpretable Attention Heads In The Wild",
+      "year": 2023,
+      "venue": "International Conference on Learning Representations",
+      "citation_count": 79
+    }
+  }
+}

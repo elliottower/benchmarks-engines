@@ -1,0 +1,10 @@
+from_community,to_community,n_edges,n_possible,density,self_citation
+sae,sae,10,64,0.1562,True
+sae,causal,1,56,0.0179,False
+sae,circuits,11,96,0.1146,False
+causal,sae,2,56,0.0357,False
+causal,causal,6,49,0.1224,True
+causal,circuits,6,84,0.0714,False
+circuits,sae,3,96,0.0312,False
+circuits,causal,5,84,0.0595,False
+circuits,circuits,17,144,0.1181,True

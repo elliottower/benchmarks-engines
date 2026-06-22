@@ -1,0 +1,17 @@
+from_community,to_community,n_edges,n_papers_from,n_papers_to,possible_pairs,density
+sae,sae,326,209,209,43681,0.007463
+sae,causal,14,209,40,8360,0.001675
+sae,circuits,45,209,128,26752,0.001682
+sae,mi_general,17,209,311,64999,0.000262
+causal,sae,9,40,209,8360,0.001077
+causal,causal,63,40,40,1600,0.039375
+causal,circuits,16,40,128,5120,0.003125
+causal,mi_general,45,40,311,12440,0.003617
+circuits,sae,38,128,209,26752,0.00142
+circuits,causal,62,128,40,5120,0.012109
+circuits,circuits,157,128,128,16384,0.009583
+circuits,mi_general,55,128,311,39808,0.001382
+mi_general,sae,101,311,209,64999,0.001554
+mi_general,causal,106,311,40,12440,0.008521
+mi_general,circuits,153,311,128,39808,0.003843
+mi_general,mi_general,0,311,311,96721,0.0
