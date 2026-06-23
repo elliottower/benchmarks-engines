@@ -3,8 +3,9 @@ message: "If you use this software, please cite it as below."
 title: "Benchmarks Are Engines, Not Cameras"
 authors:
   - family-names: Tower
-    given-names: Elliott
+    given-names: Elliot
     email: elliot@elliottower.ai
+    orcid: "https://orcid.org/0000-0001-7004-8884"
 type: software
 license: MIT
 doi: "10.5281/zenodo.20815419"
