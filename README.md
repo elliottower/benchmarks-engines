@@ -61,6 +61,6 @@ MIT
 
 ## Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20792837.svg)](https://doi.org/10.5281/zenodo.20792837)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20815419.svg)](https://doi.org/10.5281/zenodo.20815419)
 
-Tower, E. (2026). *Benchmarks Are Engines, Not Cameras.* Zenodo. https://doi.org/10.5281/zenodo.20792837
+Tower, E. (2026). *Benchmarks Are Engines, Not Cameras.* Zenodo. https://doi.org/10.5281/zenodo.20815419
