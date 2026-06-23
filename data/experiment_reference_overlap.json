@@ -1,0 +1,372 @@
+{
+  "community_ref_counts": {
+    "causal": 211,
+    "circuits": 346,
+    "sae": 162
+  },
+  "pairwise_jaccard": {
+    "causal__circuits": 0.1185,
+    "causal__sae": 0.0843,
+    "circuits__sae": 0.0855
+  },
+  "shared_ancestors_all_3": 16,
+  "shared_ancestors_2": 59,
+  "top_shared_ancestors": [
+    {
+      "title": "Language Models are Unsupervised Multitask Learners",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 7,
+        "sae": 2
+      }
+    },
+    {
+      "title": "Toy Models of Superposition",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 3,
+        "sae": 5
+      }
+    },
+    {
+      "title": "Zoom In: An Introduction to Circuits",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 2,
+        "circuits": 4,
+        "sae": 3
+      }
+    },
+    {
+      "title": "Axiomatic Attribution for Deep Networks",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 4,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 4,
+        "circuits": 1,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Finding Neurons in a Haystack: Case Studies with Sparse Probing",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2,
+        "sae": 3
+      }
+    },
+    {
+      "title": "How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 4,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Investigating Gender Bias in Language Models Using Causal Mediation Analysis",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 4,
+        "sae": 1
+      }
+    },
+    {
+      "title": "CausaLM: Causal Model Explanation Through Counterfactual Language Models",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 2
+      }
+    },
+    {
+      "title": "Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 2,
+        "circuits": 3
+      }
+    },
+    {
+      "title": "Attention is All you Need",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 2,
+        "circuits": 3
+      }
+    },
+    {
+      "title": "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2,
+        "sae": 2
+      }
+    },
+    {
+      "title": "Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders",
+      "communities": [
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "circuits": 1,
+        "sae": 4
+      }
+    },
+    {
+      "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+      "communities": [
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "circuits": 3,
+        "sae": 2
+      }
+    },
+    {
+      "title": "What Does BERT Look at? An Analysis of BERT\u2019s Attention",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "BERT Rediscovers the Classical NLP Pipeline",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "\u201cWhy Should I Trust You?\u201d: Explaining the Predictions of Any Classifier",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "Visualizing and Understanding Convolutional Networks",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "Direct and Indirect Effects",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 3
+      }
+    },
+    {
+      "title": "Dissecting Recall of Factual Associations in Auto-Regressive Language Models",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Inducing Causal Structure for Interpretable Neural Networks",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "Causal Analysis of Syntactic Agreement Mechanisms in Neural Language Models",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 3
+      }
+    },
+    {
+      "title": "An Interpretability Illusion for BERT",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 3,
+        "circuits": 1
+      }
+    },
+    {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Probing Classifiers: Promises, Shortcomings, and Advances",
+      "communities": [
+        "causal",
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Language Models are Few-Shot Learners",
+      "communities": [
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "circuits": 3,
+        "sae": 1
+      }
+    },
+    {
+      "title": "Improving Dictionary Learning with Gated Sparse Autoencoders",
+      "communities": [
+        "circuits",
+        "sae"
+      ],
+      "cite_counts": {
+        "circuits": 1,
+        "sae": 3
+      }
+    },
+    {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "communities": [
+        "causal",
+        "circuits"
+      ],
+      "cite_counts": {
+        "causal": 1,
+        "circuits": 2
+      }
+    }
+  ]
+}

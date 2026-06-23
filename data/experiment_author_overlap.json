@@ -1,0 +1,223 @@
+{
+  "total_authors": 724,
+  "multi_community_authors": 31,
+  "overlap_rate_pct": 4.3,
+  "community_author_counts": {
+    "causal": 36,
+    "circuits": 145,
+    "sae": 263,
+    "mi_general": 311
+  },
+  "bridge_authors": [
+    {
+      "name": "Atticus Geiger",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Thomas F. Icard",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Jing Huang",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Aryaman Arora",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Zhengxuan Wu",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Noah D. Goodman",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Christopher Potts",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Yonatan Belinkov",
+      "communities": [
+        "causal",
+        "circuits"
+      ]
+    },
+    {
+      "name": "Arthur Conmy",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "J. Steinhardt",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Neel Nanda",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "T. Henighan",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "Tom Conerly",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "Andy Jones",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "Chris Olah",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "S. Heimersheim",
+      "communities": [
+        "circuits",
+        "sae"
+      ]
+    },
+    {
+      "name": "Samuel Marks",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "C. Rager",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "David Bau",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Aaron Mueller",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Wes Gurnee",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Maxime M'eloux",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Franccois Portet",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Maxime Peyrard",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Hossein Javidnia",
+      "communities": [
+        "mi_general",
+        "sae"
+      ]
+    },
+    {
+      "name": "Kevin K. Nejad",
+      "communities": [
+        "mi_general",
+        "sae"
+      ]
+    },
+    {
+      "name": "Mor Geva",
+      "communities": [
+        "causal",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Jack Merullo",
+      "communities": [
+        "circuits",
+        "mi_general"
+      ]
+    },
+    {
+      "name": "Katharina Simbeck",
+      "communities": [
+        "mi_general",
+        "sae"
+      ]
+    },
+    {
+      "name": "Mariam Mahran",
+      "communities": [
+        "mi_general",
+        "sae"
+      ]
+    }
+  ]
+}

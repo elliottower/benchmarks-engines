@@ -1,0 +1,70 @@
+{
+  "yearly_data": [
+    {
+      "year": 2021,
+      "n_papers": 6,
+      "n_edges": 5,
+      "cross_edges": 3,
+      "within_edges": 2,
+      "cross_pct": 60.0,
+      "cross_density": 16.6667,
+      "within_density": 16.6667,
+      "ratio": 1.0
+    },
+    {
+      "year": 2022,
+      "n_papers": 11,
+      "n_edges": 10,
+      "cross_edges": 7,
+      "within_edges": 3,
+      "cross_pct": 70.0,
+      "cross_density": 8.75,
+      "within_density": 10.0,
+      "ratio": 1.14
+    },
+    {
+      "year": 2023,
+      "n_papers": 74,
+      "n_edges": 108,
+      "cross_edges": 81,
+      "within_edges": 27,
+      "cross_pct": 75.0,
+      "cross_density": 2.4208,
+      "within_density": 1.3132,
+      "ratio": 0.54
+    },
+    {
+      "year": 2024,
+      "n_papers": 113,
+      "n_edges": 154,
+      "cross_edges": 100,
+      "within_edges": 54,
+      "cross_pct": 64.9,
+      "cross_density": 1.2028,
+      "within_density": 1.2437,
+      "ratio": 1.03
+    },
+    {
+      "year": 2025,
+      "n_papers": 224,
+      "n_edges": 280,
+      "cross_edges": 142,
+      "within_edges": 138,
+      "cross_pct": 50.7,
+      "cross_density": 0.4028,
+      "within_density": 0.939,
+      "ratio": 2.33
+    },
+    {
+      "year": 2026,
+      "n_papers": 360,
+      "n_edges": 643,
+      "cross_edges": 323,
+      "within_edges": 320,
+      "cross_pct": 50.2,
+      "cross_density": 0.3751,
+      "within_density": 0.742,
+      "ratio": 1.98
+    }
+  ]
+}

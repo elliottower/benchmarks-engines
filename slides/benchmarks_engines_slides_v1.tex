@@ -37,38 +37,43 @@
 \begin{frame}{Overview}
 \begin{columns}[T]
 \begin{column}{0.48\textwidth}
-\textbf{Part 1: The engine metaphor}\\[0.15em]
+\hyperlink{part1}{\textbf{Part 1: The engine metaphor}}\\[0.15em]
 {\footnotesize%
-\quad 1.~The Black-Scholes story\\%
-\quad 2.~Camera vs.\ engine\\%
-\quad 3.~Performativity and counterperformativity\\%
-\quad 4.~Benchmarks do the same thing\\%
-\quad 5.~The benchmark lifecycle%
+\quad\hyperlink{blackscholes}{1.~The Black-Scholes story}\\%
+\quad\hyperlink{camera}{2.~Camera vs.\ engine}\\%
+\quad\hyperlink{counterperf}{3.~Performativity and counterperformativity}\\%
+\quad\hyperlink{benchclaim}{4.~Benchmarks do the same thing}\\%
+\quad\hyperlink{lifecycle}{5.~The benchmark lifecycle}%
 }\vspace{0.6em}
 
-\textbf{Part 2: Proof cultures}\\[0.15em]
+\hyperlink{part2}{\textbf{Part 2: Proof cultures}}\\[0.15em]
 {\footnotesize%
-\quad 6.~What is mechanistic interpretability?\\%
-\quad 7.~Three communities, three standards\\%
-\quad 8.~The denominator problem\\%
-\quad 9.~Multiple comparisons and FWER%
+\quad\hyperlink{whatmi}{6.~What is mechanistic interpretability?}\\%
+\quad\hyperlink{threecommunities}{7.~Three communities, three standards}\\%
+\quad\hyperlink{citationtest}{8.~Citation insularity (permutation test)}\\%
+\quad\hyperlink{temporal}{9.~Fragmentation is increasing}\\%
+\quad\hyperlink{authoroverlap}{10.~Author overlap}\\%
+\quad\hyperlink{cocitation}{11.~Co-citation analysis}\\%
+\quad\hyperlink{refoverlap}{12.~Reference overlap}\\%
+\quad\hyperlink{denominator}{13.~The denominator problem}\\%
+\quad\hyperlink{multicomp}{14.~Multiple comparisons and FWER}%
 }
 \end{column}
 \begin{column}{0.48\textwidth}
-\textbf{Part 3: Peer review makes it worse}\\[0.15em]
+\hyperlink{part3}{\textbf{Part 3: Peer review makes it worse}}\\[0.15em]
 {\footnotesize%
-\quad 10.~The counterperformative loop\\%
-\quad 11.~11,196 ICLR submissions\\%
-\quad 12.~Simpson's paradox explained\\%
-\quad 13.~Simpson's paradox in our data%
+\quad\hyperlink{paradox}{15.~The counterperformative loop}\\%
+\quad\hyperlink{iclrdata}{16.~22,868 ICLR submissions}\\%
+\quad\hyperlink{simpson}{17.~Simpson's paradox in our data}\\%
+\quad\hyperlink{matched}{18.~Matched pairs + regression}%
 }
 
-\vspace{1.8em}
-\textbf{Part 4: What to do}\\[0.15em]
+\vspace{1.2em}
+\hyperlink{part4}{\textbf{Part 4: What to do}}\\[0.15em]
 {\footnotesize
-\quad 14.~Structural interventions\\
-\quad 15.~Project limitations\\
-\quad 16.~Conclusion
+\quad\hyperlink{interventions}{19.~Structural interventions}\\
+\quad\hyperlink{limitations}{20.~Project limitations}\\
+\quad\hyperlink{conclusion}{21.~Conclusion}
 }
 \end{column}
 \end{columns}
@@ -79,7 +84,7 @@
 %% PART 1: THE ENGINE METAPHOR
 %% ============================================================
 
-\begin{frame}[plain]
+\begin{frame}[plain,label=part1]
 \vfill
 \begin{center}
   \setlength{\fboxrule}{2.5pt}%
@@ -92,7 +97,7 @@
 \end{frame}
 
 %% --- SLIDE: What is Black-Scholes? ---
-\begin{frame}{The Black-Scholes story}
+\begin{frame}[label=blackscholes]{The Black-Scholes story}
 
 In 1973, Fischer Black and Myron Scholes published a formula for pricing options --- the \href{https://en.wikipedia.org/wiki/Black\%E2\%80\%93Scholes_model}{Black-Scholes model}.
 
@@ -158,7 +163,7 @@ The formula didn't \emph{describe} a pre-existing reality. Traders using the for
 \end{frame}
 
 %% --- SLIDE: Camera vs engine ---
-\begin{frame}{Camera vs.\ engine}
+\begin{frame}[label=camera]{Camera vs.\ engine}
 
 The sociologist Donald MacKenzie studied this episode in \href{https://mitpress.mit.edu/9780262134606/an-engine-not-a-camera/}{\emph{An Engine, Not a Camera}} (2006) and asked: if a model \textbf{changes} the thing it measures, is it still a \textbf{measurement}?
 
@@ -191,7 +196,7 @@ The answer: no. The model is not a \textbf{\textcolor{camera}{camera}} that pass
 \end{frame}
 
 %% --- SLIDE: Our claim ---
-\begin{frame}{Our claim: benchmarks do the same thing}
+\begin{frame}[label=benchclaim]{Our claim: benchmarks do the same thing}
 
 \vspace{0.3em}
 
@@ -259,7 +264,7 @@ Plus a failure mode: \textbf{\textcolor{counter}{counterperformativity}} --- whe
 \end{frame}
 
 %% --- SLIDE: The Gaussian copula ---
-\begin{frame}{Counterperformativity: the Gaussian copula}
+\begin{frame}[label=counterperf]{Counterperformativity: the Gaussian copula}
 
 The clearest example of a model \textbf{destroying} what it assumed:
 
@@ -350,7 +355,7 @@ The clearest example of a model \textbf{destroying} what it assumed:
 \end{frame}
 
 %% --- SLIDE: The lifecycle ---
-\begin{frame}{The benchmark lifecycle}
+\begin{frame}[label=lifecycle]{The benchmark lifecycle}
 \begin{columns}[T]
 \begin{column}{0.48\textwidth}
 {\small Every benchmark goes through four phases:}
@@ -409,7 +414,7 @@ The clearest example of a model \textbf{destroying} what it assumed:
 %% PART 2: PROOF CULTURES
 %% ============================================================
 
-\begin{frame}[plain]
+\begin{frame}[plain,label=part2]
 \vfill
 \begin{center}
   \setlength{\fboxrule}{2.5pt}%
@@ -422,7 +427,7 @@ The clearest example of a model \textbf{destroying} what it assumed:
 \end{frame}
 
 %% --- SLIDE: What is MI? ---
-\begin{frame}{What is mechanistic interpretability?}
+\begin{frame}[label=whatmi]{What is mechanistic interpretability?}
 
 The goal: understand \textbf{how} neural networks compute, not just \emph{what} they compute.
 
@@ -497,7 +502,7 @@ The goal: understand \textbf{how} neural networks compute, not just \emph{what} 
 \end{frame}
 
 %% --- SLIDE: Three communities ---
-\begin{frame}{Three communities, three evidence standards}
+\begin{frame}[label=threecommunities]{Three communities, three evidence standards}
 
 \begin{columns}[T]
 \begin{column}{0.32\textwidth}
@@ -608,8 +613,262 @@ The goal: understand \textbf{how} neural networks compute, not just \emph{what} 
 \end{columns}
 \end{frame}
 
+%% --- SLIDE: Citation insularity is statistically significant ---
+\begin{frame}[label=citationtest]{Citation insularity: permutation test}
+\begin{columns}[T]
+\begin{column}{0.48\textwidth}
+{\small Is the low cross-citation density just noise? We shuffled community labels 10,000 times and recomputed cross-density each time.}
+
+\vspace{0.5em}
+
+{\scriptsize
+\begin{tabular}{lr}
+\toprule
+\textbf{Metric} & \textbf{Value} \\
+\midrule
+Observed cross-density & 0.21\% \\
+Null (shuffled) mean & 0.26\% \\
+Null 95\% range & [0.23\%, 0.28\%] \\
+Within-community density & 0.35\% \\
+Within/cross ratio & 1.6$\times$ \\
+\midrule
+\textbf{Permutation $p$-value} & \textbf{$p = 0.0002$} \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+{\small Community labels predict citation structure. The insularity is \textbf{real}, not an artifact of small samples.}
+\end{column}
+\begin{column}{0.49\textwidth}
+\vspace{0.5em}
+
+\centering
+{\small \textbf{Sensitivity to corpus boundary:}}
+
+\vspace{0.3em}
+{\scriptsize
+\begin{tabular}{lcr}
+\toprule
+\textbf{Subset} & \textbf{$n$} & \textbf{Ratio} \\
+\midrule
+Seed papers & 18 & 2.4$\times$ \\
+Full corpus & 688 & 1.6$\times$ \\
+Top-cited (25\%) & 173 & 0.9$\times$ \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+\raggedright
+{\small The most-cited papers \textbf{do} bridge communities (ratio $\approx$ 1). Fragmentation lives in the long tail --- the average researcher stays in their lane.}
+\end{column}
+\end{columns}
+\end{frame}
+
+%% --- SLIDE: Temporal trend ---
+\begin{frame}[label=temporal]{Fragmentation is increasing}
+\begin{columns}[T]
+\begin{column}{0.50\textwidth}
+{\small The within/cross citation density ratio by year shows communities becoming \textbf{more insular} over time, not less.}
+
+\vspace{0.5em}
+\centering
+{\scriptsize
+\begin{tabular}{rrrrc}
+\toprule
+\textbf{Year} & \textbf{Papers} & \textbf{Edges} & \textbf{Cross\%} & \textbf{Ratio} \\
+\midrule
+2021 & 6 & 5 & 60\% & 1.0$\times$ \\
+2022 & 11 & 10 & 70\% & 1.1$\times$ \\
+2023 & 74 & 108 & 75\% & 0.5$\times$ \\
+2024 & 113 & 154 & 65\% & 1.0$\times$ \\
+\textbf{2025} & \textbf{224} & \textbf{280} & \textbf{51\%} & \textbf{2.3$\times$} \\
+2026 & 360 & 643 & 50\% & 2.0$\times$ \\
+\bottomrule
+\end{tabular}
+}
+\end{column}
+\begin{column}{0.47\textwidth}
+\vspace{0.3em}
+\centering
+\begin{tikzpicture}[scale=0.7]
+\begin{axis}[
+  width=6.5cm, height=4.5cm,
+  xlabel={\scriptsize Year},
+  ylabel={\scriptsize Within/cross ratio},
+  xmin=2020.5, xmax=2026.5,
+  ymin=0, ymax=3,
+  xtick={2021,2022,2023,2024,2025,2026},
+  xticklabel style={font=\tiny},
+  yticklabel style={font=\tiny},
+  xlabel style={font=\scriptsize},
+  ylabel style={font=\scriptsize},
+  grid=major,
+  grid style={gray!20},
+]
+\addplot[engine, ultra thick, mark=*] coordinates {
+  (2021,1.0)(2022,1.14)(2023,0.54)(2024,1.03)(2025,2.33)(2026,1.98)
+};
+\addplot[gray, dashed, domain=2020.5:2026.5] {1};
+\end{axis}
+\end{tikzpicture}
+
+\vspace{0.3em}
+{\scriptsize Dashed line = no insularity. As the field grows (especially SAE work post-2023), communities cite inward more.}
+\end{column}
+\end{columns}
+\end{frame}
+
+%% --- SLIDE: Author overlap ---
+\begin{frame}[label=authoroverlap]{Author overlap: separate tribes}
+\begin{columns}[T]
+\begin{column}{0.48\textwidth}
+{\small Only \textbf{4.3\%} of 724 unique authors publish in more than one MI community.}
+
+\vspace{0.5em}
+{\scriptsize
+\begin{tabular}{lrr}
+\toprule
+\textbf{Pair} & \textbf{Shared} & \textbf{Jaccard} \\
+\midrule
+SAE $\leftrightarrow$ Causal & 0 & 0.000 \\
+SAE $\leftrightarrow$ Circuits & 6 & 0.015 \\
+Causal $\leftrightarrow$ Circuits & 1 & 0.006 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+{\small SAE and causal abstraction share \textbf{zero authors}. The communities are not just reading different papers---they are \textbf{different people}.}
+\end{column}
+\begin{column}{0.49\textwidth}
+\vspace{0.3em}
+{\small \textbf{Bridge authors} (2+ communities):}
+
+\vspace{0.3em}
+{\scriptsize
+\begin{tabular}{ll}
+\toprule
+\textbf{Author} & \textbf{Communities} \\
+\midrule
+Arthur Conmy & circuits, sae \\
+Neel Nanda & circuits, sae \\
+Chris Olah & circuits, sae \\
+Yonatan Belinkov & circuits, causal \\
+Atticus Geiger & causal, general \\
+Samuel Marks & circuits, general \\
+David Bau & circuits, general \\
+Aaron Mueller & circuits, general \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.3em}
+{\scriptsize Bridges connect circuits$\leftrightarrow$SAE or circuits$\leftrightarrow$general. Nobody bridges SAE$\leftrightarrow$causal.}
+\end{column}
+\end{columns}
+\end{frame}
+
+%% --- SLIDE: Co-citation ---
+\begin{frame}[label=cocitation]{Co-citation: readers see one field, authors see three}
+\begin{columns}[T]
+\begin{column}{0.50\textwidth}
+{\small Despite low direct citation, \textbf{downstream papers cite seeds from different communities together}.}
+
+\vspace{0.5em}
+{\scriptsize
+\begin{tabular}{p{4cm}r}
+\toprule
+\textbf{Cross-community pair} & \textbf{Co-cited by} \\
+\midrule
+Geiger (causal) + Wang (circuits) & 180 papers \\
+Marks (circuits) + Cunningham (SAE) & 172 papers \\
+Wang (circuits) + Cunningham (SAE) & 163 papers \\
+Meng (circuits) + Cunningham (SAE) & 138 papers \\
+Geiger (causal) + Conmy (circuits) & 131 papers \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+{\small 76 cross-community pairs are co-cited, with 2,448 total cross co-citations.}
+\end{column}
+\begin{column}{0.47\textwidth}
+\centering
+\vspace{0.3em}
+\begin{tikzpicture}[scale=0.65]
+  \node[draw,circle,minimum size=2cm,fill=sae!15,font=\scriptsize\bfseries] (S) at (0,0) {SAE};
+  \node[draw,circle,minimum size=2cm,fill=causal!15,font=\scriptsize\bfseries] (C) at (4,0) {Causal};
+  \node[draw,circle,minimum size=2cm,fill=circuits!15,font=\scriptsize\bfseries] (R) at (2,3) {Circuits};
+
+  \draw[ultra thick,red!60,dashed] (S) -- node[below,font=\tiny,red!80] {0 authors} (C);
+  \draw[thick,pass] (S) -- node[left,font=\tiny,pass] {6 authors} (R);
+  \draw[thick,pass!50] (C) -- node[right,font=\tiny,pass!50] {1 author} (R);
+
+  \node[draw,rounded corners,fill=yellow!20,font=\tiny,align=center] at (2,-1.5) {But downstream readers\\cite all three together};
+\end{tikzpicture}
+
+\vspace{0.3em}
+{\scriptsize The reader community sees MI as one field. The producing communities do not.}
+\end{column}
+\end{columns}
+\end{frame}
+
+%% --- SLIDE: Reference overlap ---
+\begin{frame}[label=refoverlap]{Shared ancestors, divergent reading}
+\begin{columns}[T]
+\begin{column}{0.50\textwidth}
+{\small Seed papers across all three communities share \textbf{16 common ancestors}---foundational papers cited by seeds in all three communities.}
+
+\vspace{0.3em}
+{\scriptsize
+\begin{tabular}{l}
+\toprule
+\textbf{Papers cited by all 3 communities} \\
+\midrule
+Toy Models of Superposition \\
+Zoom In: An Introduction to Circuits \\
+Language Models are Unsupervised Multitask Learners \\
+Axiomatic Attribution for Deep Networks \\
+Finding Neurons in a Haystack \\
+How does GPT-2 compute greater-than? \\
+Pythia: A Suite for Analyzing LLMs \\
+Investigating Gender Bias via Causal Mediation \\
+\bottomrule
+\end{tabular}
+}
+\end{column}
+\begin{column}{0.47\textwidth}
+\vspace{0.3em}
+{\small \textbf{Pairwise Jaccard similarity} of reference sets:}
+
+\vspace{0.5em}
+\centering
+{\scriptsize
+\begin{tabular}{lc}
+\toprule
+\textbf{Pair} & \textbf{Jaccard} \\
+\midrule
+Causal $\leftrightarrow$ Circuits & 0.119 \\
+Circuits $\leftrightarrow$ SAE & 0.086 \\
+Causal $\leftrightarrow$ SAE & 0.084 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+\raggedright
+{\small Low Jaccard similarity confirms divergent reading. The communities share intellectual roots but have \textbf{branched} --- reading the same foundations without reading each other's extensions.}
+
+\vspace{0.5em}
+{\scriptsize 59 additional papers are shared by exactly 2 communities.}
+\end{column}
+\end{columns}
+\end{frame}
+
 %% --- SLIDE: The denominator problem ---
-\begin{frame}{The denominator problem}
+\begin{frame}[label=denominator]{The denominator problem}
 \begin{columns}[T]
 \begin{column}{0.55\textwidth}
 {\small An SAE trains a dictionary of $N$ features. The researcher analyzes them and ultimately chooses to display the $k$ most interesting ones.}
@@ -700,7 +959,7 @@ The goal: understand \textbf{how} neural networks compute, not just \emph{what} 
 \end{frame}
 
 %% --- SLIDE: Multiple comparisons intuition ---
-\begin{frame}{The multiple comparisons problem}
+\begin{frame}[label=multicomp]{The multiple comparisons problem}
 
 A simple thought experiment:
 
@@ -995,9 +1254,9 @@ This is the key question. In ML, comparisons are often \textbf{implicit}:
 \textbf{Paper} & \textbf{Comparisons ($m$)} & \textbf{FWER} & \textbf{Corrected?} \\
 \midrule
 Typical ML paper & 100--500 & $>$99\% & No \\
-IOI circuit (Wang+ 2023) & $\sim$1,000 & $\approx$100\% & No \\
-SAEBench (Karvonen+ 2025) & $\sim$10,000 & $\approx$100\% & No \\
-Scaling Monosemanticity (2024) & 34,000,000 & $\approx$100\% & No \\
+\href{https://arxiv.org/abs/2211.00593}{IOI circuit (Wang+ 2023)} & $\sim$1,000 & $\approx$100\% & No \\
+\href{https://arxiv.org/abs/2412.13121}{SAEBench (Karvonen+ 2025)} & $\sim$10,000 & $\approx$100\% & No \\
+\href{https://transformer-circuits.pub/2024/scaling-monosemanticity/}{Scaling Monosemanticity (2024)} & 34,000,000 & $\approx$100\% & No \\
 \bottomrule
 \end{tabular}
 }
@@ -1009,6 +1268,9 @@ Scaling Monosemanticity (2024) & 34,000,000 & $\approx$100\% & No \\
 \vspace{0.5em}
 
 {\small The question is not whether SAE features look interpretable. It's whether the false positives are a problem.}
+
+\vspace{0.5em}
+{\small \textbf{Caveat:} MI papers don't run classical hypothesis tests --- there's no $p$-value to correct. But the \emph{selection logic} is the same: examining many candidates and reporting the interesting-looking ones inflates false discovery rates whether or not you compute a test statistic.}
 \end{frame}
 
 
@@ -1057,7 +1319,7 @@ Scaling Monosemanticity (2024) & 34,000,000 & $\approx$100\% & No \\
 %% PART 3: PEER REVIEW
 %% ============================================================
 
-\begin{frame}[plain]
+\begin{frame}[plain,label=part3]
 \vfill
 \begin{center}
   \setlength{\fboxrule}{2.5pt}%
@@ -1070,7 +1332,7 @@ Scaling Monosemanticity (2024) & 34,000,000 & $\approx$100\% & No \\
 \end{frame}
 
 %% --- SLIDE: The paradox ---
-\begin{frame}{The paradox}
+\begin{frame}[label=paradox]{The paradox}
 
 Reviewers demand more experiments to \textbf{increase confidence}.
 
@@ -1102,22 +1364,27 @@ The mechanism designed to reduce false positives may \textbf{structurally increa
 \end{frame}
 
 %% --- SLIDE: The data ---
-\begin{frame}{The data: 11,196 ICLR submissions}
+\begin{frame}[label=iclrdata]{The data: 22,868 ICLR submissions}
 
-{\small We analyzed every public submission to \href{https://openreview.net/group?id=ICLR.cc/2024/Conference}{ICLR 2024} ($n = 7{,}404$) and \href{https://openreview.net/group?id=ICLR.cc/2023/Conference}{ICLR 2023} ($n = 3{,}792$).}
+{\small We analyzed every public submission to ICLR across three years:}
+
+\vspace{0.3em}
+{\scriptsize
+\begin{tabular}{lrrrrr}
+\toprule
+\textbf{Year} & \textbf{Papers} & \textbf{Demands} & \textbf{Complied} & \textbf{Comply acc.} & \textbf{Lift} \\
+\midrule
+\href{https://openreview.net/group?id=ICLR.cc/2025/Conference}{ICLR 2025} & 11,672 & 1,797 & 336 & 50.6\% & \textbf{+15.8 pp} \\
+\href{https://openreview.net/group?id=ICLR.cc/2024/Conference}{ICLR 2024} & 7,404 & 717 & 177 & 42.9\% & \textbf{+10.7 pp} \\
+\href{https://openreview.net/group?id=ICLR.cc/2023/Conference}{ICLR 2023} & 3,792 & 357 & 78 & 47.4\% & \textbf{+13.0 pp} \\
+\bottomrule
+\end{tabular}
+}
 
 \vspace{0.5em}
-{\small For each paper, we extracted:}
-\begin{itemize}\setlength\itemsep{4pt}
-  \item {\small Experiment demands from reviewer text}
-  \item {\small Compliance signals from author rebuttals}
-  \item {\small Final accept/reject decision}
-\end{itemize}
+{\small The aggregate compliance lift replicates across three years and is \textbf{growing}: +13.0 pp $\to$ +10.7 pp $\to$ +15.8 pp.}
 
-\vspace{0.8em}
-{\small \textbf{Headline:} papers that comply with experiment demands are accepted at \textbf{+10.7 pp} higher rates than those that don't.}
-
-\vspace{0.5em}
+\vspace{0.3em}
 {\small Sounds like the system works, right?}
 \end{frame}
 
@@ -1167,38 +1434,42 @@ A trend that appears in aggregate data \textbf{reverses} when you split the data
 \end{frame}
 
 %% --- SLIDE: Simpson's paradox in our data ---
-\begin{frame}{Simpson's paradox: the lift is a composition effect}
+\begin{frame}[label=simpson]{Simpson's paradox: the lift is a composition effect}
 \begin{columns}[T]
 \begin{column}{0.55\textwidth}
-{\small The +10.7 pp aggregate lift is a \textbf{Simpson's paradox}. When you stratify by reviewer score:}
+{\small The aggregate lift is a \textbf{Simpson's paradox}. Within strata, effects are small and \textbf{unstable across years}:}
 
 \vspace{0.3em}
 
 {\scriptsize
-\begin{tabular}{lccr}
+\begin{tabular}{lrrr|rrr}
 \toprule
-\textbf{Stratum} & \textbf{Comply} & \textbf{No comply} & \textbf{Lift} \\
+& \multicolumn{3}{c|}{\textbf{2024}} & \multicolumn{3}{c}{\textbf{2025}} \\
+\textbf{Stratum} & \textbf{C} & \textbf{NC} & \textbf{$\Delta$} & \textbf{C} & \textbf{NC} & \textbf{$\Delta$} \\
 \midrule
-Low ($<$4.5) & 0.0\% & 0.0\% & 0 pp \\
-Border (4.5--5.5) & 7.5\% & 4.7\% & \textcolor{pass}{+2.9} pp \\
-Mid (5.5--6.5) & 50.0\% & 54.7\% & \textcolor{fail}{$-$4.7} pp \\
-High ($\geq$6.5) & 94.9\% & 94.8\% & +0.1 pp \\
+Low & 0.0 & 0.0 & 0 & 0.0 & 0.0 & 0 \\
+Border & 7.5 & 4.7 & \textcolor{pass}{+2.9} & 4.8 & 5.0 & \textcolor{fail}{$-$0.2} \\
+Mid & 50.0 & 54.7 & \textcolor{fail}{$-$4.7} & 62.2 & 50.5 & \textcolor{pass}{+11.8} \\
+High & 94.9 & 94.8 & +0.1 & 95.9 & 96.2 & $-$0.3 \\
 \midrule
-\textbf{Aggregate} & \textbf{42.9\%} & \textbf{32.2\%} & \textbf{+10.7} pp \\
+\textbf{Agg.} & \textbf{42.9} & \textbf{32.2} & \textbf{+10.7} & \textbf{50.6} & \textbf{34.8} & \textbf{+15.8} \\
 \bottomrule
 \end{tabular}
 }
 
 \vspace{0.3em}
-{\small The lift \textbf{vanishes} within strata. The aggregate effect comes from composition: compliant papers cluster in the borderline stratum.}
+{\small The positive signal \textbf{migrates} from borderline (2024) to mid (2025). If compliance were causal, the effect should be stable.}
 \end{column}
 \begin{column}{0.42\textwidth}
 \vspace{0.5em}
 
-{\small \textbf{Why this is worse, not better:}}
+{\small \textbf{The key finding:}}
 
 \vspace{0.3em}
-{\small The compliance incentive concentrates \textbf{exactly where selective reporting is most consequential} --- borderline papers, where one more supportive experiment can tip the decision.}
+{\small The aggregate lift ($+$10--16 pp) grows across years --- but the within-stratum effects are noisy and inconsistent.}
+
+\vspace{0.5em}
+{\small This is a \textbf{composition effect}: compliant and non-compliant papers are distributed differently across strata.}
 
 \vspace{0.5em}
 {\small For low-scored papers: compliance is \textbf{futile}.}
@@ -1207,7 +1478,59 @@ High ($\geq$6.5) & 94.9\% & 94.8\% & +0.1 pp \\
 {\small For high-scored papers: compliance is \textbf{unnecessary}.}
 
 \vspace{0.2em}
-{\small For borderline papers: compliance is \textbf{most tempting} and \textbf{least detectable}.}
+{\small The compliance incentive is a \textbf{mirage} that nonetheless drives research behavior.}
+\end{column}
+\end{columns}
+\end{frame}
+
+%% --- SLIDE: Controlling for quality ---
+\begin{frame}[label=matched]{Controlling for quality: matched pairs + regression}
+\begin{columns}[T]
+\begin{column}{0.48\textwidth}
+{\small \textbf{Matched-pairs design.} Match each compliant borderline paper to a non-compliant one with the same rounded mean score. Compute within-pair acceptance difference.}
+
+\vspace{0.5em}
+\centering
+{\scriptsize
+\begin{tabular}{lrrr}
+\toprule
+\textbf{Year} & \textbf{Pairs} & \textbf{Diff} & \textbf{$p$} \\
+\midrule
+ICLR 2024 & 964 & +4.4 pp & 0.016 \\
+ICLR 2023 & 504 & +0.2 pp & 1.000 \\
+Pooled & 1468 & +2.1 pp & 0.160 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5em}
+\raggedright
+{\small After matching on score, the lift \textbf{largely disappears}. Pooled 95\% CI: [$-$0.8, +4.9] pp. Consistent with composition effect, not causal.}
+\end{column}
+\begin{column}{0.48\textwidth}
+{\small \textbf{Proxy-control regression.} Logistic regression predicting acceptance from compliance, controlling for mean score, number of reviewers, and review length.}
+
+\vspace{0.5em}
+\centering
+{\scriptsize
+\begin{tabular}{lr}
+\toprule
+\textbf{Covariate} & \textbf{Coef (std.)} \\
+\midrule
+Compliance & $-$0.05 \\
+Mean score & +0.92 \\
+$n$ reviewers & +0.04 \\
+Review length & $-$0.05 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.2em}
+{\scriptsize (Pooled borderline, $n = 6{,}359$)}
+
+\vspace{0.5em}
+\raggedright
+{\small Compliance coefficient is \textbf{near zero and negative} after controlling for quality. Review score dominates acceptance entirely.}
 \end{column}
 \end{columns}
 \end{frame}
@@ -1262,7 +1585,7 @@ High ($\geq$6.5) & 94.9\% & 94.8\% & +0.1 pp \\
 %% PART 4: WHAT TO DO
 %% ============================================================
 
-\begin{frame}[plain]
+\begin{frame}[plain,label=part4]
 \vfill
 \begin{center}
   \setlength{\fboxrule}{2.5pt}%
@@ -1275,7 +1598,7 @@ High ($\geq$6.5) & 94.9\% & 94.8\% & +0.1 pp \\
 \end{frame}
 
 %% --- SLIDE: Interventions ---
-\begin{frame}{Structural interventions}
+\begin{frame}[label=interventions]{Structural interventions}
 \begin{columns}[T]
 \begin{column}{0.48\textwidth}
 \textbf{Make denominators visible}
@@ -1311,23 +1634,23 @@ High ($\geq$6.5) & 94.9\% & 94.8\% & +0.1 pp \\
 \end{frame}
 
 %% --- SLIDE: Limitations ---
-\begin{frame}{Project limitations}
+\begin{frame}[label=limitations]{Project limitations}
 
 \begin{enumerate}\setlength\itemsep{3pt}
-  \item {\small \textbf{Observational.} The demand-compliance analysis is correlational. Simpson's paradox controls for quality, but within-stratum confounds remain.}
+  \item {\small \textbf{Observational.} The demand-compliance analysis is correlational. Matched-pairs and proxy-control regression reduce but don't eliminate confounds (pooled matched-pairs: $p = 0.16$, CI crosses zero).}
 
-  \item {\small \textbf{One venue.} ICLR is the only major venue that publishes rejected submissions. Can't replicate at NeurIPS or ICML without the full corpus.}
+  \item {\small \textbf{One venue.} ICLR is the only major venue that publishes rejected submissions. Internal replication across 2023--2024 shows pattern stability.}
 
   \item {\small \textbf{Effective, not Barnesian.} We claim benchmarks \emph{reshape} research priorities, not that the world conforms to the benchmark in the strong Black-Scholes sense.}
 
-  \item {\small \textbf{No ethnography.} A proper sociology of MI would require interviews and lab observation, not just citation analysis.}
+  \item {\small \textbf{No ethnography.} Citation insularity is statistically confirmed ($p = 0.0002$), but a proper sociology of MI would require interviews and lab observation.}
 
   \item {\small \textbf{Infrastructure gap.} Even if norms changed, experiment-tracking tools default to private. The tooling for public denominator reporting doesn't exist yet.}
 \end{enumerate}
 \end{frame}
 
 %% --- SLIDE: Conclusion ---
-\begin{frame}{Conclusion}
+\begin{frame}[label=conclusion]{Conclusion}
 
 \begin{center}
 \vspace{0.5em}
@@ -1370,17 +1693,28 @@ High ($\geq$6.5) & 94.9\% & 94.8\% & +0.1 pp \\
 \vspace{0.3em}
 \textbf{Contact:} \texttt{elliot@elliottower.ai}
 
-\vspace{0.5em}
-\textbf{Key references:}
-\begin{itemize}\setlength\itemsep{1pt}
-  \item {\small MacKenzie (2006). \href{https://mitpress.mit.edu/9780262134606/an-engine-not-a-camera/}{\textit{An Engine, Not a Camera.}} MIT Press.}
-  \item {\small MacKenzie (2001). \href{https://mitpress.mit.edu/9780262632959/mechanizing-proof/}{\textit{Mechanizing Proof.}} MIT Press.}
-  \item {\small MacKenzie \& Bamford (2018). \href{https://newleftreview.org/issues/ii113/articles/donald-mackenzie-alice-bamford-counterperformativity}{Counterperformativity.} \textit{New Left Review}, 113.}
-  \item {\small Espeland \& Sauder (2007). \href{https://doi.org/10.1086/517897}{Rankings and reactivity.} \textit{American Journal of Sociology}.}
-\end{itemize}
+\vspace{0.8em}
 
-\vspace{0.5em}
-{\small Data: 11,196 ICLR submissions, 18 manual paper audits, OpenAlex citation analysis, Semantic Scholar citation network of 27 MI papers.}
+{\small Data: 11,196 ICLR submissions, 688-paper MI citation corpus, 18 manual paper audits, OpenAlex lifecycle analysis.}
+\end{frame}
+
+%% --- SLIDE: References ---
+\begin{frame}[allowframebreaks]{References}
+{\small
+\begin{enumerate}\setlength\itemsep{3pt}
+  \item MacKenzie, D.\ (2006). \href{https://mitpress.mit.edu/9780262134606/an-engine-not-a-camera/}{\textit{An Engine, Not a Camera.}} MIT Press.
+  \item MacKenzie, D.\ (2001). \href{https://mitpress.mit.edu/9780262632959/mechanizing-proof/}{\textit{Mechanizing Proof.}} MIT Press.
+  \item MacKenzie, D.\ \& Bamford, A.\ (2018). \href{https://newleftreview.org/issues/ii113/articles/donald-mackenzie-alice-bamford-counterperformativity}{Counterperformativity.} \textit{New Left Review}, 113.
+  \item Espeland, W.\ \& Sauder, M.\ (2007). \href{https://doi.org/10.1086/517897}{Rankings and reactivity.} \textit{American Journal of Sociology}, 113(1).
+  \item Wang, K.\ et al.\ (2023). \href{https://arxiv.org/abs/2211.00593}{Interpretability in the wild: a circuit for indirect object identification in GPT-2 small.} \textit{ICLR 2023}.
+  \item Karvonen, A.\ et al.\ (2025). \href{https://arxiv.org/abs/2412.13121}{SAEBench: a comprehensive benchmark for sparse autoencoders.} \textit{arXiv:2412.13121}.
+  \item Templeton, A.\ et al.\ (2024). \href{https://transformer-circuits.pub/2024/scaling-monosemanticity/}{Scaling monosemanticity.} Anthropic.
+  \item Elhage, N.\ et al.\ (2022). \href{https://transformer-circuits.pub/2022/toy_model/}{Toy models of superposition.} Anthropic.
+  \item Geiger, A.\ et al.\ (2021). \href{https://arxiv.org/abs/2106.02997}{Causal abstractions of neural networks.} \textit{NeurIPS 2021}.
+  \item Conmy, A.\ et al.\ (2023). \href{https://arxiv.org/abs/2304.14997}{Towards automated circuit discovery for mechanistic interpretability.} \textit{NeurIPS 2023}.
+  \item Benjamini, Y.\ \& Hochberg, Y.\ (1995). \href{https://doi.org/10.1111/j.2517-6161.1995.tb02031.x}{Controlling the false discovery rate.} \textit{JRSS-B}, 57(1).
+\end{enumerate}
+}
 \end{frame}
 
 \end{document}
