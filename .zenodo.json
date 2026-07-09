@@ -1,0 +1,26 @@
+{
+  "title": "Benchmarks Are Engines, Not Cameras",
+  "upload_type": "software",
+  "description": "ML benchmarks function as engines, not cameras: they reshape the practices they measure. Citation analysis, demand-compliance analysis, and counterperformative peer review.",
+  "creators": [
+    {
+      "name": "Tower, Elliot",
+      "orcid": "0000-0001-7004-8884"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "benchmarks",
+    "sociology of science",
+    "citation analysis",
+    "peer review",
+    "machine learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/elliottower/benchmarks-engines",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
